@@ -1,5 +1,14 @@
-Generated on: 2026-10-22 06:25:01
+Generated on: 2026-10-22 15:58:42
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
-  symbol     strategy    bias last_trigger  lot_size rvol atr14 daily_range  close
-INDHOTEL RSI_Strategy BULLISH   2026-10-22         1 2.93 20.95       46.70 782.40
+    symbol      strategy    bias last_trigger  lot_size rvol  atr14 daily_range   close
+CASTROLIND SMA_Crossover BULLISH   2026-10-22         1 1.10   3.69        4.18  197.38
+CHENNPETRO SMA_Crossover BULLISH   2026-10-22         1 1.55  90.66      102.70 1453.70
+ COALINDIA  RSI_Strategy BEARISH   2026-10-22         1 1.11   9.50        9.05  402.55
+  INDHOTEL  RSI_Strategy BULLISH   2026-10-22         1 4.09  20.95       46.70  782.30
+   MANKIND  RSI_Strategy BEARISH   2026-10-22         1 1.07  66.94       66.00 2275.60
+  RELIANCE SMA_Crossover BEARISH   2026-10-22         1 1.00  27.31       23.50 1184.50
+SHREEJISPG  RSI_Strategy BULLISH   2026-10-22         1 1.24  23.20       35.90  788.85
+    SMLMAH  RSI_Strategy BEARISH   2026-10-22         1 4.57 305.71      249.00 4951.00
+     TRENT SMA_Crossover BEARISH   2026-10-22         1 1.19  85.65       62.20 2775.80
+WAAREEENER SMA_Crossover BEARISH   2026-10-22         1 1.09  80.81       76.80 2370.00

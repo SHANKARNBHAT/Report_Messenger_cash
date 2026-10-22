@@ -1,10 +1,11 @@
-Generated on: 2026-10-22 06:25:01
+Generated on: 2026-10-22 15:58:42
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
     AVALON  2026-10-22  RSI_Strategy BEARISH 1952.00         1
      CANBK  2026-10-22 SMA_Crossover BEARISH  119.35         1
  COALINDIA  2026-10-22  RSI_Strategy BEARISH  396.80         1
+ EDELWEISS  2026-10-22  RSI_Strategy BEARISH  119.77         1
  EICHERMOT  2026-10-22 SMA_Crossover BEARISH 7058.00         1
 ENGINERSIN  2026-10-22  RSI_Strategy BEARISH  253.05         1
  HINDPETRO  2026-10-22 SMA_Crossover BEARISH  342.25         1
@@ -13,7 +14,10 @@ ENGINERSIN  2026-10-22  RSI_Strategy BEARISH  253.05         1
    MANKIND  2026-10-22  RSI_Strategy BEARISH 2243.10         1
   RELIANCE  2026-10-22 SMA_Crossover BEARISH 1191.80         1
      SENCO  2026-10-22 SMA_Crossover BEARISH  320.90         1
+    SMLMAH  2026-10-22  RSI_Strategy BEARISH 4951.00         1
+SUPREMEIND  2026-10-22 SMA_Crossover BEARISH 3491.20         1
 TATACONSUM  2026-10-22 SMA_Crossover BEARISH  953.65         1
      TRENT  2026-10-22 SMA_Crossover BEARISH 2785.50         1
        VBL  2026-10-22  RSI_Strategy BEARISH  402.15         1
 WAAREEENER  2026-10-22 SMA_Crossover BEARISH 2373.40         1
+WOCKPHARMA  2026-10-22  RSI_Strategy BEARISH 1855.50         1

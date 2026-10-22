@@ -1,4 +1,4 @@
-Generated on: 2026-10-22 06:25:01
+Generated on: 2026-10-22 15:58:42
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
@@ -24,3 +24,10 @@ TATACONSUM  2026-10-22 SMA_Crossover BEARISH         1
      TRENT  2026-10-22 SMA_Crossover BEARISH         1
        VBL  2026-10-22  RSI_Strategy BEARISH         1
 WAAREEENER  2026-10-22 SMA_Crossover BEARISH         1
+CASTROLIND  2026-10-22 SMA_Crossover BULLISH         1
+CHENNPETRO  2026-10-22 SMA_Crossover BULLISH         1
+ EDELWEISS  2026-10-22  RSI_Strategy BEARISH         1
+SHREEJISPG  2026-10-22  RSI_Strategy BULLISH         1
+    SMLMAH  2026-10-22  RSI_Strategy BEARISH         1
+SUPREMEIND  2026-10-22 SMA_Crossover BEARISH         1
+WOCKPHARMA  2026-10-22  RSI_Strategy BEARISH         1
