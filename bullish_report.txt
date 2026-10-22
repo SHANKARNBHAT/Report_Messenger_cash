@@ -1,0 +1,6 @@
+Generated on: 2026-10-22 06:25:01
+• Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
+
+  symbol signal_date strategy_type    bias   close  lot_size
+INDHOTEL  2026-10-22  RSI_Strategy BULLISH  782.40         1
+    KMEW  2026-10-22 SMA_Crossover BULLISH 3150.30         1

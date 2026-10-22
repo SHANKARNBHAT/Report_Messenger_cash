@@ -1,0 +1,32 @@
+Generated on: 2026-10-22 06:25:01
+• Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
+
+    symbol rvol   close daily_range atr_14  is_active        trend  action
+  INDHOTEL 2.93  782.40       46.70  20.95          1      Bullish  1.Long
+PCJEWELLER 2.64   18.19        2.17   1.18          1      Bullish  1.Long
+   ETERNAL 2.44  313.85       12.30  10.09          1      Bullish  1.Long
+     TATVA 1.89 1717.30      171.50 129.44          1      Bullish  1.Long
+ FINCABLES 1.72 1130.10       73.80  63.67          1      Bullish  1.Long
+     KROSS 1.66  287.60       33.05  20.67          1      Bullish  1.Long
+ SHILPAMED 1.18  892.90       73.80  56.40          0      Bullish  1.Long
+  INDIACEM 6.21  347.95       33.45  16.11          1      Bearish 2.Short
+       KEI 5.17 3908.20      355.00 173.41          1      Bearish 2.Short
+    M&MFIN 4.33  280.15       21.75  12.21          1      Bearish 2.Short
+      BPCL 3.11  285.90       11.55   7.99          1      Bearish 2.Short
+      GRSE 2.88 1942.00      111.30  72.55          1      Bearish 2.Short
+ CREDITACC 2.70 1089.10       58.30  48.32          1      Bearish 2.Short
+   MAZDOCK 2.38 1913.10       80.00  60.94          1      Bearish 2.Short
+       SRF 2.09 2216.00      114.90  67.81          1      Bearish 2.Short
+    SWIGGY 1.57  211.95       11.45   8.81          1      Bearish 2.Short
+      HSCL 1.32  520.65       22.85  21.98          0      Bearish 2.Short
+     TANLA 3.16  586.10       42.50  24.03          1 Undetermined 3.Watch
+   FRACTAL 2.66  752.90       51.35  32.60          1 Undetermined 3.Watch
+      LTTS 2.24 3955.00      209.00 167.65          1 Undetermined 3.Watch
+  SAGILITY 1.49   44.63        1.40   1.36          0 Undetermined 3.Watch
+   COFORGE 1.07 1915.00       73.40  60.94          0 Undetermined 3.Watch
+       KRN 1.30 1045.20       47.60  76.46          0      Bearish  4.Wait
+  HINDZINC 1.30  513.70       10.60  16.00          0      Bearish  4.Wait
+ REDINGTON 1.17  367.05       11.80  16.82          0      Bullish  4.Wait
+     WIPRO 1.13  189.62        3.91   5.23          0      Bearish  4.Wait
+SAMMAANCAP 1.10  121.00        2.91   5.22          0      Bearish  4.Wait
+ UNIONBANK 1.09  181.20        5.34   5.74          0 Undetermined  4.Wait
