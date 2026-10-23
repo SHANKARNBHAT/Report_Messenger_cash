@@ -1,14 +1,30 @@
-Generated on: 2026-10-22 15:58:42
+Generated on: 2026-10-23 15:51:10
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
-    symbol      strategy    bias last_trigger  lot_size rvol  atr14 daily_range   close
-CASTROLIND SMA_Crossover BULLISH   2026-10-22         1 1.10   3.69        4.18  197.38
-CHENNPETRO SMA_Crossover BULLISH   2026-10-22         1 1.55  90.66      102.70 1453.70
- COALINDIA  RSI_Strategy BEARISH   2026-10-22         1 1.11   9.50        9.05  402.55
-  INDHOTEL  RSI_Strategy BULLISH   2026-10-22         1 4.09  20.95       46.70  782.30
-   MANKIND  RSI_Strategy BEARISH   2026-10-22         1 1.07  66.94       66.00 2275.60
-  RELIANCE SMA_Crossover BEARISH   2026-10-22         1 1.00  27.31       23.50 1184.50
-SHREEJISPG  RSI_Strategy BULLISH   2026-10-22         1 1.24  23.20       35.90  788.85
-    SMLMAH  RSI_Strategy BEARISH   2026-10-22         1 4.57 305.71      249.00 4951.00
-     TRENT SMA_Crossover BEARISH   2026-10-22         1 1.19  85.65       62.20 2775.80
-WAAREEENER SMA_Crossover BEARISH   2026-10-22         1 1.09  80.81       76.80 2370.00
+    symbol      strategy    bias last_trigger  lot_size  rvol  atr14 daily_range   close
+ANANDRATHI  RSI_Strategy BULLISH   2026-10-23         1  1.94  49.59       27.80 2235.00
+    AVALON  RSI_Strategy BEARISH   2026-10-23         1  1.24 125.59      150.40 1856.60
+ BANKINDIA SMA_Crossover BEARISH   2026-10-23         1  1.06   4.20        6.45  131.00
+      BHEL  RSI_Strategy BEARISH   2026-10-23         1  1.10  17.53       21.00  387.50
+     CANBK SMA_Crossover BEARISH   2026-10-23         1  1.28   3.73        5.33  116.16
+CHENNPETRO SMA_Crossover BULLISH   2026-10-22         1  1.88  90.76      106.90 1475.60
+    CYIENT  RSI_Strategy BULLISH   2026-10-23         1 11.27  56.51       67.90 1233.00
+ EDELWEISS  RSI_Strategy BEARISH   2026-10-22         1  1.87   6.04       10.59  119.53
+   HAVELLS SMA_Crossover BEARISH   2026-10-23         1  2.98  34.16       88.20 1031.00
+ HINDPETRO SMA_Crossover BEARISH   2026-10-22         1  1.35  10.03       14.80  338.30
+  INDHOTEL  RSI_Strategy BULLISH   2026-10-22         1  2.05  21.59       29.55  781.75
+     IOLCP  RSI_Strategy BEARISH   2026-10-23         1  1.07  11.07       10.35  164.14
+  JSWINFRA  RSI_Strategy BEARISH   2026-10-23         1  1.01  11.88       14.05  316.00
+   MANKIND  RSI_Strategy BEARISH   2026-10-22         1  1.09  69.41       93.50 2212.60
+    NAZARA SMA_Crossover BULLISH   2026-10-23         1  1.70  15.46       29.40  402.15
+       OIL SMA_Crossover BEARISH   2026-10-23         1  1.25   8.06       13.05  447.85
+    QPOWER  RSI_Strategy BEARISH   2026-10-23         1  2.48  77.31      103.80 1305.40
+SHREEJISPG  RSI_Strategy BULLISH   2026-10-22         1  1.25  24.10       31.45  776.60
+    SMLMAH  RSI_Strategy BEARISH   2026-10-22         1  1.42 298.79      234.50 4843.50
+   STLTECH SMA_Crossover BULLISH   2026-10-23         1  1.99  55.44       79.15  826.65
+SUPREMEIND SMA_Crossover BEARISH   2026-10-22         1  1.13 101.89      126.10 3390.00
+     SYRMA  RSI_Strategy BEARISH   2026-10-23         1  1.03  75.12      102.20 1433.10
+TATACONSUM SMA_Crossover BEARISH   2026-10-22         1  1.09  19.42       19.70  963.90
+TDPOWERSYS  RSI_Strategy BEARISH   2026-10-23         1  1.95  42.87       49.65  639.55
+WAAREEENER SMA_Crossover BEARISH   2026-10-22         1  1.12  80.46       72.00 2354.90
+WOCKPHARMA  RSI_Strategy BEARISH   2026-10-22         1  1.25  78.64       92.00 1801.70

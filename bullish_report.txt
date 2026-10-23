@@ -1,7 +1,11 @@
-Generated on: 2026-10-22 15:58:42
+Generated on: 2026-10-23 15:51:10
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+ANANDRATHI  2026-10-23  RSI_Strategy BULLISH 2235.00         1
+    CYIENT  2026-10-23  RSI_Strategy BULLISH 1233.00         1
+    NAZARA  2026-10-23 SMA_Crossover BULLISH  402.15         1
+   STLTECH  2026-10-23 SMA_Crossover BULLISH  826.65         1
 CASTROLIND  2026-10-22 SMA_Crossover BULLISH  197.38         1
 CHENNPETRO  2026-10-22 SMA_Crossover BULLISH 1453.70         1
   INDHOTEL  2026-10-22  RSI_Strategy BULLISH  782.40         1

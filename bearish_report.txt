@@ -1,7 +1,28 @@
-Generated on: 2026-10-22 15:58:42
+Generated on: 2026-10-23 15:51:10
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+    AVALON  2026-10-23  RSI_Strategy BEARISH 1856.60         1
+      AZAD  2026-10-23  RSI_Strategy BEARISH 2478.70         1
+BANKBARODA  2026-10-23 SMA_Crossover BEARISH  230.90         1
+ BANKINDIA  2026-10-23 SMA_Crossover BEARISH  131.00         1
+      BHEL  2026-10-23  RSI_Strategy BEARISH  387.50         1
+       BSE  2026-10-23 SMA_Crossover BEARISH 3230.80         1
+     CANBK  2026-10-23 SMA_Crossover BEARISH  116.16         1
+   HAVELLS  2026-10-23 SMA_Crossover BEARISH 1031.00         1
+   INDIANB  2026-10-23 SMA_Crossover BEARISH  837.15         1
+       IOC  2026-10-23 SMA_Crossover BEARISH  129.09         1
+     IOLCP  2026-10-23  RSI_Strategy BEARISH  164.14         1
+JAICORPLTD  2026-10-23 SMA_Crossover BEARISH   90.24         1
+  JSWINFRA  2026-10-23  RSI_Strategy BEARISH  316.00         1
+  JYOTICNC  2026-10-23  RSI_Strategy BEARISH  890.80         1
+  MTARTECH  2026-10-23  RSI_Strategy BEARISH 6460.00         1
+       OIL  2026-10-23 SMA_Crossover BEARISH  447.85         1
+    QPOWER  2026-10-23  RSI_Strategy BEARISH 1305.40         1
+      SBIN  2026-10-23 SMA_Crossover BEARISH  958.60         1
+     SYRMA  2026-10-23  RSI_Strategy BEARISH 1433.10         1
+ TATAPOWER  2026-10-23 SMA_Crossover BEARISH  348.10         1
+TDPOWERSYS  2026-10-23  RSI_Strategy BEARISH  639.55         1
     AVALON  2026-10-22  RSI_Strategy BEARISH 1952.00         1
      CANBK  2026-10-22 SMA_Crossover BEARISH  119.35         1
  COALINDIA  2026-10-22  RSI_Strategy BEARISH  396.80         1
