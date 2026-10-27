@@ -1,8 +1,10 @@
-Generated on: 2026-10-26 17:33:51
+Generated on: 2026-10-27 16:48:19
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
+LAURUSLABS         1    2058.90 ACTIVE
+      MRPL         1     182.61 ACTIVE
 SHREEJISPG         1     788.85      -
    TFCILTD         1     154.31      -
 
@@ -84,3 +86,28 @@ SUPREMEIND  2026-10-26  RSI_Strategy BEARISH         1
    TFCILTD  2026-10-26  RSI_Strategy BULLISH         1
 ZENSARTECH  2026-10-26  RSI_Strategy BULLISH         1
  ZYDUSLIFE  2026-10-26 SMA_Crossover BULLISH         1
+AARTIPHARM  2026-10-27 SMA_Crossover BULLISH         1
+   ACUTAAS  2026-10-27  RSI_Strategy BULLISH         1
+     AEQUS  2026-10-27  RSI_Strategy BEARISH         1
+ANANDRATHI  2026-10-27  RSI_Strategy BULLISH         1
+ATHERENERG  2026-10-27  RSI_Strategy BULLISH         1
+      BBOX  2026-10-27 SMA_Crossover BULLISH         1
+BHARTIARTL  2026-10-27  RSI_Strategy BULLISH         1
+  DIVISLAB  2026-10-27 SMA_Crossover BULLISH         1
+       FSL  2026-10-27  RSI_Strategy BULLISH         1
+ HBLENGINE  2026-10-27 SMA_Crossover BULLISH         1
+      HFCL  2026-10-27 SMA_Crossover BULLISH         1
+  JKCEMENT  2026-10-27 SMA_Crossover BEARISH         1
+KARURVYSYA  2026-10-27 SMA_Crossover BULLISH         1
+LAURUSLABS  2026-10-27  RSI_Strategy BULLISH         1
+   MANKIND  2026-10-27 SMA_Crossover BULLISH         1
+    MEESHO  2026-10-27 SMA_Crossover BULLISH         1
+MOREPENLAB  2026-10-27 SMA_Crossover BULLISH         1
+      MRPL  2026-10-27  RSI_Strategy BULLISH         1
+       PWL  2026-10-27 SMA_Crossover BULLISH         1
+ RATNAVEER  2026-10-27  RSI_Strategy BULLISH         1
+   SANSERA  2026-10-27 SMA_Crossover BULLISH         1
+      SBIN  2026-10-27 SMA_Crossover BEARISH         1
+  SONACOMS  2026-10-27  RSI_Strategy BULLISH         1
+     TANLA  2026-10-27  RSI_Strategy BULLISH         1
+ TIPSMUSIC  2026-10-27  RSI_Strategy BULLISH         1

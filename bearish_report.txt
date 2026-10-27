@@ -1,7 +1,10 @@
-Generated on: 2026-10-26 17:33:51
+Generated on: 2026-10-27 16:48:19
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+     AEQUS  2026-10-27  RSI_Strategy BEARISH  219.10         1
+  JKCEMENT  2026-10-27 SMA_Crossover BEARISH 4897.50         1
+      SBIN  2026-10-27 SMA_Crossover BEARISH  945.10         1
   AEROFLEX  2026-10-26  RSI_Strategy BEARISH  445.75         1
    KTKBANK  2026-10-26  RSI_Strategy BEARISH  299.85         1
 LIQUIDBEES  2026-10-26 SMA_Crossover BEARISH  999.99         1

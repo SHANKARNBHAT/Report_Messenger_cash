@@ -1,7 +1,29 @@
-Generated on: 2026-10-26 17:33:51
+Generated on: 2026-10-27 16:48:19
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+AARTIPHARM  2026-10-27 SMA_Crossover BULLISH  885.90         1
+   ACUTAAS  2026-10-27  RSI_Strategy BULLISH 3793.30         1
+ANANDRATHI  2026-10-27  RSI_Strategy BULLISH 2259.00         1
+ATHERENERG  2026-10-27  RSI_Strategy BULLISH 1674.00         1
+      BBOX  2026-10-27 SMA_Crossover BULLISH  809.15         1
+BHARTIARTL  2026-10-27  RSI_Strategy BULLISH 1978.80         1
+  DIVISLAB  2026-10-27 SMA_Crossover BULLISH 9505.50         1
+       FSL  2026-10-27  RSI_Strategy BULLISH  298.75         1
+ HBLENGINE  2026-10-27 SMA_Crossover BULLISH  788.00         1
+      HFCL  2026-10-27 SMA_Crossover BULLISH  250.11         1
+KARURVYSYA  2026-10-27 SMA_Crossover BULLISH  350.60         1
+LAURUSLABS  2026-10-27  RSI_Strategy BULLISH 2142.00         1
+   MANKIND  2026-10-27 SMA_Crossover BULLISH 2502.50         1
+    MEESHO  2026-10-27 SMA_Crossover BULLISH  223.58         1
+MOREPENLAB  2026-10-27 SMA_Crossover BULLISH  132.18         1
+      MRPL  2026-10-27  RSI_Strategy BULLISH  189.44         1
+       PWL  2026-10-27 SMA_Crossover BULLISH  129.89         1
+ RATNAVEER  2026-10-27  RSI_Strategy BULLISH  347.25         1
+   SANSERA  2026-10-27 SMA_Crossover BULLISH 4290.60         1
+  SONACOMS  2026-10-27  RSI_Strategy BULLISH  851.85         1
+     TANLA  2026-10-27  RSI_Strategy BULLISH  579.15         1
+ TIPSMUSIC  2026-10-27  RSI_Strategy BULLISH  741.60         1
 ADANIPORTS  2026-10-26 SMA_Crossover BULLISH 1752.50         1
     APOLLO  2026-10-26 SMA_Crossover BULLISH  410.90         1
    COFORGE  2026-10-26  RSI_Strategy BULLISH 1993.00         1
