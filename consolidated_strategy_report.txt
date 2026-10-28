@@ -1,16 +1,16 @@
-Generated on: 2026-10-27 19:15:17
+Generated on: 2026-10-28 17:11:04
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-LAURUSLABS         1    2058.90 ACTIVE
-      MRPL         1     182.61 ACTIVE
+LAURUSLABS         1    2058.90      -
+      MRPL         1     182.61      -
 SHREEJISPG         1     788.85      -
    TFCILTD         1     154.31      -
 
 ## bearish_overlaps
     symbol  lot_size last_close active
-SUPREMEIND         1    3491.20 ACTIVE
+SUPREMEIND         1    3491.20      -
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
@@ -111,3 +111,21 @@ MOREPENLAB  2026-10-27 SMA_Crossover BULLISH         1
   SONACOMS  2026-10-27  RSI_Strategy BULLISH         1
      TANLA  2026-10-27  RSI_Strategy BULLISH         1
  TIPSMUSIC  2026-10-27  RSI_Strategy BULLISH         1
+ADANIENSOL  2026-10-28 SMA_Crossover BEARISH         1
+ADANIPORTS  2026-10-28 SMA_Crossover BULLISH         1
+BANKBARODA  2026-10-28 SMA_Crossover BEARISH         1
+      BPCL  2026-10-28 SMA_Crossover BEARISH         1
+  FORCEMOT  2026-10-28 SMA_Crossover BEARISH         1
+ HINDPETRO  2026-10-28 SMA_Crossover BEARISH         1
+  INDIACEM  2026-10-28 SMA_Crossover BEARISH         1
+JINDALSTEL  2026-10-28 SMA_Crossover BEARISH         1
+    KAYNES  2026-10-28 SMA_Crossover BEARISH         1
+  LGEINDIA  2026-10-28 SMA_Crossover BULLISH         1
+LIQUIDBEES  2026-10-28 SMA_Crossover BEARISH         1
+    MEESHO  2026-10-28 SMA_Crossover BULLISH         1
+       OIL  2026-10-28 SMA_Crossover BEARISH         1
+   PAISALO  2026-10-28 SMA_Crossover BULLISH         1
+ PPLPHARMA  2026-10-28  RSI_Strategy BULLISH         1
+  RELIANCE  2026-10-28 SMA_Crossover BEARISH         1
+ TATAELXSI  2026-10-28  RSI_Strategy BULLISH         1
+   WELCORP  2026-10-28 SMA_Crossover BULLISH         1

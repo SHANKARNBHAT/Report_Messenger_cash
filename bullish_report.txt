@@ -1,7 +1,14 @@
-Generated on: 2026-10-27 19:15:17
+Generated on: 2026-10-28 17:11:04
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+ADANIPORTS  2026-10-28 SMA_Crossover BULLISH 1761.30         1
+  LGEINDIA  2026-10-28 SMA_Crossover BULLISH 1690.60         1
+    MEESHO  2026-10-28 SMA_Crossover BULLISH  227.84         1
+   PAISALO  2026-10-28 SMA_Crossover BULLISH   78.97         1
+ PPLPHARMA  2026-10-28  RSI_Strategy BULLISH  232.80         1
+ TATAELXSI  2026-10-28  RSI_Strategy BULLISH 3755.00         1
+   WELCORP  2026-10-28 SMA_Crossover BULLISH 2564.30         1
 AARTIPHARM  2026-10-27 SMA_Crossover BULLISH  885.90         1
    ACUTAAS  2026-10-27  RSI_Strategy BULLISH 3793.30         1
 ANANDRATHI  2026-10-27  RSI_Strategy BULLISH 2259.00         1
