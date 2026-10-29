@@ -1,109 +1,131 @@
-Generated on: 2026-10-28 17:11:04
+Generated on: 2026-10-29 17:27:09
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol  rvol    close daily_range  atr_14  is_active        trend  action
-     TANLA  3.74   598.70       40.00   29.23          1      Bullish  1.Long
-   SKYGOLD  2.96   858.30      172.60   78.64          1      Bullish  1.Long
-   PVRINOX  2.74  1445.30      116.30   52.51          1      Bullish  1.Long
- TIPSMUSIC  1.81   793.90       63.00   41.89          1      Bullish  1.Long
-   RAYMOND  1.74  1060.10      118.50   69.12          1      Bullish  1.Long
-    NEOGEN  1.57  2270.90      150.60  143.61          1      Bullish  1.Long
-LAURUSLABS  1.36  2181.90       67.10   62.70          0      Bullish  1.Long
-  DIVISLAB  1.24  9558.50      329.50  267.75          0      Bullish  1.Long
-      MRPL  1.23   172.90       19.19   10.34          0      Bullish  1.Long
-    APOLLO  1.11   414.90       24.50   24.00          0      Bullish  1.Long
-   DRREDDY  1.09  1335.40       37.20   33.91          0      Bullish  1.Long
-      RAIN  1.03   209.10       11.93   11.08          0      Bullish  1.Long
-      PGEL  6.26   536.40       36.60   20.07          1      Bearish 2.Short
-    VOLTAS  3.80  1011.90       89.50   33.24          1      Bearish 2.Short
-   TATACAP  3.71   309.30        9.25    8.97          1      Bearish 2.Short
-WAAREEENER  3.64  2238.00      145.40   90.94          1      Bearish 2.Short
-    KAYNES  2.97  3140.00      236.40  135.91          1      Bearish 2.Short
-   MAZDOCK  2.87  1732.80       85.40   80.00          1      Bearish 2.Short
-        LT  2.84  3801.30      124.00   90.71          1      Bearish 2.Short
-  EXIDEIND  2.71   353.85       21.10   12.11          1      Bearish 2.Short
-  KPITTECH  2.63   552.50       57.00   22.70          1      Bearish 2.Short
-      ZEEL  2.11    69.09        5.88    2.92          1      Bearish 2.Short
-       UPL  2.07   536.40       32.65   18.34          1      Bearish 2.Short
-HINDUNILVR  2.03  1815.80       95.70   46.72          1      Bearish 2.Short
-    VIYASH  1.84   227.00       18.49   10.52          1      Bearish 2.Short
-    MARUTI  1.84 11579.00      366.00  266.36          1      Bearish 2.Short
-  CHOLAFIN  1.84  1545.20      105.90   51.99          1      Bearish 2.Short
- MAXHEALTH  1.83   851.50       33.80   28.19          1      Bearish 2.Short
-    AUBANK  1.79   879.10       42.40   31.09          1      Bearish 2.Short
-PIDILITIND  1.78  1389.60       67.40   32.68          1      Bearish 2.Short
-TATACONSUM  1.71  1000.20       42.90   26.16          1      Bearish 2.Short
-   HYUNDAI  1.61  1866.90       81.70   55.01          1      Bearish 2.Short
-     DMART  1.58  3133.90       86.40   83.11          1      Bearish 2.Short
-CUMMINSIND  1.56  4620.00      159.20  134.97          1      Bearish 2.Short
-    BIOCON  1.52   350.70       20.10    9.41          1      Bearish 2.Short
-     AMBER  1.49  6205.00      305.50  216.68          0      Bearish 2.Short
-      SAIL  1.49   162.00        8.30    6.55          0      Bearish 2.Short
-  RELIANCE  1.42  1158.00       47.90   29.72          0      Bearish 2.Short
-  FORCEMOT  1.24 17094.00      669.00  542.93          0      Bearish 2.Short
-      MFSL  1.14  1224.60       90.60   42.59          0      Bearish 2.Short
-  CROMPTON  1.10   204.00       10.57    8.89          0      Bearish 2.Short
-NATIONALUM  1.09   323.50       15.05   10.97          0      Bearish 2.Short
-IDFCFIRSTB  1.06    73.53        2.08    1.90          0      Bearish 2.Short
-CHOLAHLDNG  1.02  1304.10       64.00   45.63          0      Bearish 2.Short
-      RVNL  1.01   184.10        7.66    6.15          0      Bearish 2.Short
-  PINELABS  1.00   162.60       11.32    7.45          0      Bearish 2.Short
- PPLPHARMA 14.59   232.80       26.60    8.89          1 Undetermined 3.Watch
-  CARTRADE  8.92  2464.50      611.20  186.77          1 Undetermined 3.Watch
-   OLAELEC  4.26    36.66        3.43    1.98          1 Undetermined 3.Watch
- CRAFTSMAN  3.83 11014.00     1212.00  444.93          1 Undetermined 3.Watch
- PATANJALI  3.61   369.60       43.50   11.71          1 Undetermined 3.Watch
-   ACUTAAS  3.14  3710.00      290.00  174.16          1 Undetermined 3.Watch
-NAVINFLUOR  2.68  8501.00      412.00  269.07          1 Undetermined 3.Watch
-BAJAJ-AUTO  2.67 10485.00      355.00  291.57          1 Undetermined 3.Watch
-    NAUKRI  2.49  1190.00      126.50   46.79          1 Undetermined 3.Watch
-  LENSKART  1.92   689.70       30.55   23.58          1 Undetermined 3.Watch
-    RADICO  1.91  4135.10      183.00  146.84          1 Undetermined 3.Watch
-  SONACOMS  1.90   879.45       33.70   29.95          1 Undetermined 3.Watch
-  TVSMOTOR  1.86  4239.90      188.00  122.94          1 Undetermined 3.Watch
-  JSWINFRA  1.66   314.80       14.50   12.21          1 Undetermined 3.Watch
-   KTKBANK  1.62   311.00       16.75   11.81          1 Undetermined 3.Watch
-      CGCL  1.59   231.66       11.40    8.15          1 Undetermined 3.Watch
-DATAPATTNS  1.55  3985.00      164.10  149.69          1 Undetermined 3.Watch
-   RKFORGE  1.50   649.70       47.50   28.10          0 Undetermined 3.Watch
-INDUSTOWER  1.47   373.00       16.80   10.08          0 Undetermined 3.Watch
-  AEGISLOG  1.42  1182.90       86.90   82.65          0 Undetermined 3.Watch
-  BOSCHLTD  1.15 47625.00     2140.00 1106.43          0 Undetermined 3.Watch
-APOLLOHOSP  1.03  8137.00      436.50  244.00          0 Undetermined 3.Watch
-      VISL  2.11    26.56        0.61    1.29          1 Undetermined  4.Wait
-    SHAILY  2.01  3048.70      131.10  132.93          1 Undetermined  4.Wait
- CREDITACC  1.92  1022.20       42.20   56.11          1      Bearish  4.Wait
-  ANANTRAJ  1.66   463.85       19.95   23.93          1      Bearish  4.Wait
-     SYRMA  1.65  1563.00       73.40   77.27          1      Bullish  4.Wait
-BHARTIARTL  1.58  1948.10       44.20   51.21          1 Undetermined  4.Wait
-      OFSS  1.48  9986.00      310.00  330.79          0 Undetermined  4.Wait
-      SBCL  1.46  1039.10       60.50   70.30          0 Undetermined  4.Wait
-SHREEJISPG  1.46   840.30       16.75   26.75          0      Bullish  4.Wait
-  SBIFUNDS  1.40   462.05       11.00   14.75          0 Undetermined  4.Wait
- APLAPOLLO  1.36  2165.30       62.70   67.59          0 Undetermined  4.Wait
-GODREJPROP  1.34  1587.00       37.30   53.93          0      Bearish  4.Wait
-PCJEWELLER  1.33    15.80        1.09    1.47          0      Bullish  4.Wait
-   MANKIND  1.32  2490.00       71.60   86.68          0      Bullish  4.Wait
-BAJAJFINSV  1.32  1652.40       39.80   42.03          0      Bearish  4.Wait
-    GRASIM  1.27  2900.00       38.70   61.91          0      Bearish  4.Wait
-    M&MFIN  1.26   263.00       10.10   13.23          0      Bearish  4.Wait
- BRITANNIA  1.26  4567.30       84.10   97.74          0      Bearish  4.Wait
-BHARATFORG  1.22  1760.00       33.50   47.55          0 Undetermined  4.Wait
-  HINDZINC  1.21   506.80       16.50   16.88          0      Bearish  4.Wait
-   HAVELLS  1.13  1025.40       33.10   35.35          0      Bearish  4.Wait
-   INDOMIM  1.13  1149.00       63.00   63.06          0 Undetermined  4.Wait
-   SBICARD  1.13   527.55        9.30   17.19          0      Bearish  4.Wait
-   BELRISE  1.12   211.92        7.62    9.60          0      Bearish  4.Wait
-SHRIRAMFIN  1.11   832.55       23.85   36.44          0      Bearish  4.Wait
-      SBIN  1.11   956.80       15.55   18.81          0      Bearish  4.Wait
-     PARAS  1.11  1302.60       55.50   58.81          0 Undetermined  4.Wait
-     GVT&D  1.11  4060.00      135.00  159.25          0      Bearish  4.Wait
-     DEEPA  1.10   217.28       18.79   19.53          0 Undetermined  4.Wait
-  ADANIENT  1.08  2479.80       57.10   76.71          0      Bearish  4.Wait
-    SUZLON  1.08    37.30        0.96    1.39          0      Bearish  4.Wait
-       BDL  1.07   992.50       26.30   34.42          0      Bearish  4.Wait
-      VEDL  1.07   233.05        7.25    8.08          0      Bearish  4.Wait
-JINDALSTEL  1.05  1048.10       17.70   29.65          0      Bearish  4.Wait
-    CONCOR  1.03   418.00        9.35   11.91          0      Bearish  4.Wait
- EDELWEISS  1.02   126.60        5.30    6.43          0      Bullish  4.Wait
-  APARINDS  1.00 15419.00      518.00  733.93          0 Undetermined  4.Wait
+     BSOFT 10.34   342.50       39.05   17.21          1      Bullish  1.Long
+AARTIPHARM  4.98   927.65      115.00   42.50          1      Bullish  1.Long
+ZENSARTECH  4.35   537.30       53.85   22.46          1      Bullish  1.Long
+   ACUTAAS  3.58  3976.70      358.90  189.36          1      Bullish  1.Long
+ADANIPORTS  2.38  1872.00       96.90   49.91          1      Bullish  1.Long
+     TANLA  2.35   618.40       40.50   31.21          1      Bullish  1.Long
+     SYRMA  2.17  1669.00      121.90   78.70          1      Bullish  1.Long
+    GESHIP  1.83  1618.80       84.20   50.01          1      Bullish  1.Long
+LAURUSLABS  1.76  2244.00       78.00   64.19          1      Bullish  1.Long
+   PVRINOX  1.68  1490.30       74.70   54.79          1      Bullish  1.Long
+ KOTAKBANK  1.64   459.00       20.95    9.83          1      Bullish  1.Long
+  DCMSRIND  1.37    63.36       15.36    6.00          0      Bullish  1.Long
+       PNB  1.37   123.90        4.28    3.32          0      Bullish  1.Long
+  MTARTECH  1.28  7158.50      404.00  369.61          0      Bullish  1.Long
+ SOUTHBANK  1.11    56.57        3.28    2.29          0      Bullish  1.Long
+   MANINDS  1.07   802.45       56.75   51.12          0      Bullish  1.Long
+   WELCORP  1.06  2499.10      221.60  141.60          0      Bullish  1.Long
+   TATACAP  5.80   326.35       23.40   10.00          1      Bearish 2.Short
+PIDILITIND  4.01  1422.00       86.30   36.14          1      Bearish 2.Short
+ASIANPAINT  3.31  2302.00       84.90   53.73          1      Bearish 2.Short
+   HYUNDAI  2.95  1922.00       85.70   59.75          1      Bearish 2.Short
+  PINELABS  2.81   164.21       13.65    7.78          1      Bearish 2.Short
+  CHOLAFIN  2.48  1604.20       70.40   55.24          1      Bearish 2.Short
+  UNITDSPR  2.39  1289.50       65.30   41.35          1      Bearish 2.Short
+    VOLTAS  2.14  1041.00       33.50   33.20          1      Bearish 2.Short
+      CDSL  2.07  1282.00       52.50   33.09          1      Bearish 2.Short
+HEROMOTOCO  1.95  5105.00      317.00  164.04          1      Bearish 2.Short
+BANDHANBNK  1.74   161.84        9.25    7.29          1      Bearish 2.Short
+HINDUNILVR  1.58  1858.20       74.60   49.56          1      Bearish 2.Short
+  FORCEMOT  1.39 16856.00      611.00  556.50          0      Bearish 2.Short
+   TIINDIA  1.34  2177.00       81.80   72.84          0      Bearish 2.Short
+PIRAMALFIN  1.30  1864.80       91.90   71.72          0      Bearish 2.Short
+MUTHOOTFIN  1.28  2497.10      101.00   67.44          0      Bearish 2.Short
+MANAPPURAM  1.26   302.10       15.05   11.41          0      Bearish 2.Short
+    SUZLON  1.24    36.79        1.54    1.35          0      Bearish 2.Short
+     TITAN  1.21  4434.00      117.60   87.94          0      Bearish 2.Short
+SAMMAANCAP  1.19   121.13        6.47    5.34          0      Bearish 2.Short
+      JSFB  1.12   394.20       26.20   25.19          0      Bearish 2.Short
+ POWERGRID  1.12   260.00       11.70    6.04          0      Bearish 2.Short
+      ZEEL  1.10    70.51        3.03    2.86          0      Bearish 2.Short
+ADANIPOWER  1.10   191.20        9.09    6.66          0      Bearish 2.Short
+TATACONSUM  1.08  1021.00       32.85   26.60          0      Bearish 2.Short
+CHOLAHLDNG  1.08  1365.00       74.90   47.02          0      Bearish 2.Short
+    VIYASH  1.07   224.55       10.89   10.17          0      Bearish 2.Short
+BAJFINANCE  1.05   938.90       34.55   28.42          0      Bearish 2.Short
+  AEROFLEX  7.56   538.35       67.40   43.31          1 Undetermined 3.Watch
+POONAWALLA  5.62   441.50       52.70   19.23          1 Undetermined 3.Watch
+PNBHOUSING  3.80  1110.00       94.20   39.19          1 Undetermined 3.Watch
+     PARAS  3.19  1329.70       66.70   59.68          1 Undetermined 3.Watch
+   RRKABEL  2.93  2122.90      169.40  114.96          1 Undetermined 3.Watch
+ PPLPHARMA  2.88   230.78       13.90    9.35          1 Undetermined 3.Watch
+ SHADOWFAX  2.56   294.35       25.05   13.47          1 Undetermined 3.Watch
+  TVSMOTOR  2.50  4280.00      181.90  127.04          1 Undetermined 3.Watch
+  APARINDS  2.25 15846.00     1235.00  766.79          1 Undetermined 3.Watch
+   RKFORGE  2.16   672.20       35.85   28.99          1 Undetermined 3.Watch
+ CRAFTSMAN  1.96 10833.00      608.00  472.64          1 Undetermined 3.Watch
+    MARICO  1.92   802.90       40.05   16.80          1 Undetermined 3.Watch
+ APLAPOLLO  1.78  2195.00       80.10   66.53          1 Undetermined 3.Watch
+   KTKBANK  1.73   305.80       19.75   12.48          1 Undetermined 3.Watch
+     WABAG  1.68  1862.80       96.60   74.89          1 Undetermined 3.Watch
+       KRN  1.64  1207.50       92.00   77.79          1 Undetermined 3.Watch
+   INDIANB  1.62   864.10       31.35   23.36          1 Undetermined 3.Watch
+NEULANDLAB  1.62 19280.00      885.00  711.07          1 Undetermined 3.Watch
+ PATANJALI  1.56   378.80       19.20   12.29          1 Undetermined 3.Watch
+      NHPC  1.43    77.20        3.56    1.93          0 Undetermined 3.Watch
+   SEDEMAC  1.40  3202.70      137.90  113.79          0 Undetermined 3.Watch
+NAVINFLUOR  1.38  8260.50      330.50  279.11          0 Undetermined 3.Watch
+  ADANIENT  1.37  2607.90      155.50   73.82          0 Undetermined 3.Watch
+      OFSS  1.35  9939.00      448.00  333.36          0 Undetermined 3.Watch
+  JSWINFRA  1.19   323.90       13.10   11.54          0 Undetermined 3.Watch
+    360ONE  1.13  1022.70       39.60   31.19          0 Undetermined 3.Watch
+    NAUKRI  1.10  1173.00       48.90   45.25          0 Undetermined 3.Watch
+  LENSKART  1.10   681.75       25.35   22.50          0 Undetermined 3.Watch
+  JYOTICNC  1.09   956.70       45.60   40.83          0 Undetermined 3.Watch
+   ETERNAL  1.06   337.85       14.85   10.74          0 Undetermined 3.Watch
+TECHNOCRAF  1.06   475.70       18.75   18.53          0 Undetermined 3.Watch
+       DLF  1.02   694.35       31.00   16.70          0 Undetermined 3.Watch
+     LODHA  1.02  1045.80       40.80   34.00          0 Undetermined 3.Watch
+  CARTRADE  2.41  2325.00      178.00  191.67          1      Bearish  4.Wait
+GODREJPROP  2.30  1600.00       47.00   53.69          1      Bearish  4.Wait
+    RADICO  1.87  4235.00      126.60  146.96          1 Undetermined  4.Wait
+     APTUS  1.69   200.32        4.27    6.91          1      Bearish  4.Wait
+CASTROLIND  1.55   187.62        2.37    4.07          1      Bullish  4.Wait
+      RAIN  1.51   206.23       10.82   11.13          1      Bullish  4.Wait
+BHARATFORG  1.47  1766.30       43.00   46.05          0 Undetermined  4.Wait
+     NYKAA  1.44   352.90       10.90   11.06          0      Bullish  4.Wait
+ COALINDIA  1.43   393.10        8.95    9.07          0      Bearish  4.Wait
+    M&MFIN  1.43   264.80        9.50   13.01          0      Bearish  4.Wait
+SILVERBEES  1.42   179.81        3.20    4.18          0      Bearish  4.Wait
+PCJEWELLER  1.41    15.97        0.74    1.43          0      Bullish  4.Wait
+  RELIANCE  1.37  1167.40       26.50   29.11          0      Bearish  4.Wait
+      ESDS  1.32  1221.00       78.80   95.66          0 Undetermined  4.Wait
+  HINDZINC  1.32   516.50       12.50   16.11          0      Bearish  4.Wait
+ UNIONBANK  1.30   186.50        4.95    5.30          0 Undetermined  4.Wait
+  BOSCHLTD  1.25 47565.00      720.00 1054.29          0 Undetermined  4.Wait
+   MAZDOCK  1.25  1762.70       46.70   78.02          0      Bearish  4.Wait
+    CONCOR  1.25   421.05        9.35   11.75          0      Bearish  4.Wait
+    SWIGGY  1.23   185.25        4.85   10.18          0      Bearish  4.Wait
+  HINDALCO  1.23   886.30       13.40   22.77          0      Bearish  4.Wait
+     DMART  1.23  3175.00       71.00   82.62          0      Bearish  4.Wait
+ MAXHEALTH  1.22   851.15       18.25   26.78          0      Bearish  4.Wait
+  ANANTRAJ  1.19   463.95       15.70   21.53          0      Bearish  4.Wait
+WAAREEENER  1.16  2318.00       88.10   90.83          0      Bearish  4.Wait
+     LUPIN  1.15  1989.90       37.30   38.29          0      Bearish  4.Wait
+     DIXON  1.14 11488.00      228.00  356.64          0      Bearish  4.Wait
+      CGCL  1.14   231.61        4.76    7.80          0 Undetermined  4.Wait
+CUMMINSIND  1.14  4515.20       77.10  131.49          0      Bearish  4.Wait
+ BANKINDIA  1.13   135.70        3.79    4.41          0      Bearish  4.Wait
+       KEI  1.13  3830.80       83.90  175.36          0      Bearish  4.Wait
+  JUBLFOOD  1.12   421.35        4.65   11.22          0      Bearish  4.Wait
+  JSWSTEEL  1.12  1255.40       22.40   34.36          0 Undetermined  4.Wait
+    BIOCON  1.11   351.90        7.90    8.98          0      Bearish  4.Wait
+ GUJENERGY  1.10   210.88        4.10    5.43          0 Undetermined  4.Wait
+      VISL  1.10    25.29        1.28    1.29          0 Undetermined  4.Wait
+BAJAJFINSV  1.10  1668.00       31.90   41.21          0      Bearish  4.Wait
+ MOTHERSON  1.10   160.00        2.89    4.44          0 Undetermined  4.Wait
+ HINDPETRO  1.08   342.30        6.90   10.43          0      Bearish  4.Wait
+   THERMAX  1.08  3193.10       67.70  110.55          0 Undetermined  4.Wait
+MOTILALOFS  1.07   986.10       29.30   41.69          0      Bullish  4.Wait
+    NAZARA  1.07   405.40       14.00   16.05          0      Bullish  4.Wait
+       BEL  1.06   370.00        7.25    8.20          0      Bearish  4.Wait
+      PGEL  1.05   538.15       16.15   19.66          0      Bearish  4.Wait
+TORNTPHARM  1.05  4580.00       85.60  106.79          0 Undetermined  4.Wait
+ NESTLEIND  1.03  1188.60       35.60   41.79          0      Bearish  4.Wait
+   SBILIFE  1.03  1652.00       35.50   39.79          0      Bearish  4.Wait
+       LTF  1.02   251.05        7.10    8.82          0      Bearish  4.Wait
+     CIPLA  1.02  1358.00       25.50   28.50          0      Bearish  4.Wait

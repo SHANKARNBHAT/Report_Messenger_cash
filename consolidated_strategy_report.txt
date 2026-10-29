@@ -1,10 +1,14 @@
-Generated on: 2026-10-28 17:11:04
+Generated on: 2026-10-29 17:27:09
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-LAURUSLABS         1    2058.90      -
+ADANIPORTS         1    1752.50 ACTIVE
+  DIVISLAB         1    9505.50      -
+    GESHIP         1    1532.40 ACTIVE
+LAURUSLABS         1    2058.90 ACTIVE
       MRPL         1     182.61      -
+    NAZARA         1     402.15      -
 SHREEJISPG         1     788.85      -
    TFCILTD         1     154.31      -
 
@@ -129,3 +133,25 @@ LIQUIDBEES  2026-10-28 SMA_Crossover BEARISH         1
   RELIANCE  2026-10-28 SMA_Crossover BEARISH         1
  TATAELXSI  2026-10-28  RSI_Strategy BULLISH         1
    WELCORP  2026-10-28 SMA_Crossover BULLISH         1
+AARTIPHARM  2026-10-29 SMA_Crossover BULLISH         1
+ADANIPORTS  2026-10-29  RSI_Strategy BULLISH         1
+BHARTIARTL  2026-10-29  RSI_Strategy BULLISH         1
+     BSOFT  2026-10-29  RSI_Strategy BULLISH         1
+  DIVISLAB  2026-10-29  RSI_Strategy BULLISH         1
+  FORCEMOT  2026-10-29 SMA_Crossover BEARISH         1
+    GESHIP  2026-10-29  RSI_Strategy BULLISH         1
+HEROMOTOCO  2026-10-29 SMA_Crossover BEARISH         1
+    ITBEES  2026-10-29  RSI_Strategy BULLISH         1
+  JKCEMENT  2026-10-29 SMA_Crossover BEARISH         1
+ KOTAKBANK  2026-10-29  RSI_Strategy BULLISH         1
+  KPITTECH  2026-10-29 SMA_Crossover BEARISH         1
+       LTM  2026-10-29 SMA_Crossover BEARISH         1
+    NAZARA  2026-10-29  RSI_Strategy BULLISH         1
+       PNB  2026-10-29  RSI_Strategy BULLISH         1
+       PWL  2026-10-29 SMA_Crossover BULLISH         1
+ RATNAVEER  2026-10-29  RSI_Strategy BULLISH         1
+     SYRMA  2026-10-29 SMA_Crossover BULLISH         1
+  TVSMOTOR  2026-10-29  RSI_Strategy BULLISH         1
+UTTAMSUGAR  2026-10-29 SMA_Crossover BULLISH         1
+    VIYASH  2026-10-29 SMA_Crossover BEARISH         1
+ZENSARTECH  2026-10-29  RSI_Strategy BULLISH         1
