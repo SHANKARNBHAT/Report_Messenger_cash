@@ -1,7 +1,26 @@
-Generated on: 2026-10-29 17:27:09
+Generated on: 2026-10-30 17:02:37
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+    ANURAS  2026-10-30 SMA_Crossover BEARISH  1143.50         1
+ BANKINDIA  2026-10-30 SMA_Crossover BEARISH   132.86         1
+      CAMS  2026-10-30 SMA_Crossover BEARISH   653.60         1
+     CANBK  2026-10-30 SMA_Crossover BEARISH   117.54         1
+CHOLAHLDNG  2026-10-30 SMA_Crossover BEARISH  1351.30         1
+GODREJPROP  2026-10-30 SMA_Crossover BEARISH  1568.00         1
+     GVT&D  2026-10-30 SMA_Crossover BEARISH  4020.00         1
+   HDFCAMC  2026-10-30 SMA_Crossover BEARISH  2309.50         1
+ HINDPETRO  2026-10-30 SMA_Crossover BEARISH   340.55         1
+INDUSINDBK  2026-10-30 SMA_Crossover BEARISH   838.00         1
+      LICI  2026-10-30 SMA_Crossover BEARISH   383.25         1
+       M&M  2026-10-30 SMA_Crossover BEARISH  2840.30         1
+NATIONALUM  2026-10-30 SMA_Crossover BEARISH   314.55         1
+   OLAELEC  2026-10-30 SMA_Crossover BEARISH    33.18         1
+      PGEL  2026-10-30 SMA_Crossover BEARISH   530.05         1
+ REDINGTON  2026-10-30  RSI_Strategy BEARISH   326.95         1
+  SAGILITY  2026-10-30 SMA_Crossover BEARISH    42.08         1
+ULTRACEMCO  2026-10-30 SMA_Crossover BEARISH 11045.00         1
+       UPL  2026-10-30 SMA_Crossover BEARISH   513.35         1
   FORCEMOT  2026-10-29 SMA_Crossover BEARISH 16856.00         1
 HEROMOTOCO  2026-10-29 SMA_Crossover BEARISH  5105.00         1
   JKCEMENT  2026-10-29 SMA_Crossover BEARISH  4893.00         1

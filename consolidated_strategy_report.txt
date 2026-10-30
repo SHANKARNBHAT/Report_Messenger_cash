@@ -1,16 +1,17 @@
-Generated on: 2026-10-29 17:27:09
+Generated on: 2026-10-30 17:02:37
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
 ADANIPORTS         1    1752.50 ACTIVE
-  DIVISLAB         1    9505.50      -
-    GESHIP         1    1532.40 ACTIVE
+  DIVISLAB         1    9505.50 ACTIVE
+    GESHIP         1    1532.40      -
 LAURUSLABS         1    2058.90 ACTIVE
       MRPL         1     182.61      -
     NAZARA         1     402.15      -
 SHREEJISPG         1     788.85      -
    TFCILTD         1     154.31      -
+ ZYDUSLIFE         1    1160.40 ACTIVE
 
 ## bearish_overlaps
     symbol  lot_size last_close active
@@ -155,3 +156,28 @@ HEROMOTOCO  2026-10-29 SMA_Crossover BEARISH         1
 UTTAMSUGAR  2026-10-29 SMA_Crossover BULLISH         1
     VIYASH  2026-10-29 SMA_Crossover BEARISH         1
 ZENSARTECH  2026-10-29  RSI_Strategy BULLISH         1
+    ANURAS  2026-10-30 SMA_Crossover BEARISH         1
+ BANKINDIA  2026-10-30 SMA_Crossover BEARISH         1
+      CAMS  2026-10-30 SMA_Crossover BEARISH         1
+     CANBK  2026-10-30 SMA_Crossover BEARISH         1
+CHOLAHLDNG  2026-10-30 SMA_Crossover BEARISH         1
+   COFORGE  2026-10-30  RSI_Strategy BULLISH         1
+   ETERNAL  2026-10-30  RSI_Strategy BULLISH         1
+GODREJPROP  2026-10-30 SMA_Crossover BEARISH         1
+     GVT&D  2026-10-30 SMA_Crossover BEARISH         1
+   HDFCAMC  2026-10-30 SMA_Crossover BEARISH         1
+ HINDPETRO  2026-10-30 SMA_Crossover BEARISH         1
+INDUSINDBK  2026-10-30 SMA_Crossover BEARISH         1
+      INFY  2026-10-30  RSI_Strategy BULLISH         1
+      LICI  2026-10-30 SMA_Crossover BEARISH         1
+       M&M  2026-10-30 SMA_Crossover BEARISH         1
+NATIONALUM  2026-10-30 SMA_Crossover BEARISH         1
+   OLAELEC  2026-10-30 SMA_Crossover BEARISH         1
+PERSISTENT  2026-10-30  RSI_Strategy BULLISH         1
+      PGEL  2026-10-30 SMA_Crossover BEARISH         1
+ REDINGTON  2026-10-30  RSI_Strategy BEARISH         1
+  SAGILITY  2026-10-30 SMA_Crossover BEARISH         1
+ SHILPAMED  2026-10-30 SMA_Crossover BULLISH         1
+ULTRACEMCO  2026-10-30 SMA_Crossover BEARISH         1
+       UPL  2026-10-30 SMA_Crossover BEARISH         1
+ ZYDUSLIFE  2026-10-30  RSI_Strategy BULLISH         1
