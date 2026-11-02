@@ -1,4 +1,4 @@
-Generated on: 2026-10-30 17:02:37
+Generated on: 2026-11-02 20:47:36
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size

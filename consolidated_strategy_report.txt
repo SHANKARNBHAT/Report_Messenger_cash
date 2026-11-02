@@ -1,17 +1,17 @@
-Generated on: 2026-10-30 17:02:37
+Generated on: 2026-11-02 20:47:36
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-ADANIPORTS         1    1752.50 ACTIVE
-  DIVISLAB         1    9505.50 ACTIVE
+ADANIPORTS         1    1752.50      -
+  DIVISLAB         1    9505.50      -
     GESHIP         1    1532.40      -
-LAURUSLABS         1    2058.90 ACTIVE
+LAURUSLABS         1    2058.90      -
       MRPL         1     182.61      -
     NAZARA         1     402.15      -
 SHREEJISPG         1     788.85      -
    TFCILTD         1     154.31      -
- ZYDUSLIFE         1    1160.40 ACTIVE
+ ZYDUSLIFE         1    1160.40      -
 
 ## bearish_overlaps
     symbol  lot_size last_close active
@@ -181,3 +181,4 @@ PERSISTENT  2026-10-30  RSI_Strategy BULLISH         1
 ULTRACEMCO  2026-10-30 SMA_Crossover BEARISH         1
        UPL  2026-10-30 SMA_Crossover BEARISH         1
  ZYDUSLIFE  2026-10-30  RSI_Strategy BULLISH         1
+LIQUIDBEES  2026-11-02 SMA_Crossover BEARISH         1
