@@ -1,7 +1,9 @@
-Generated on: 2026-11-04 18:39:14
+Generated on: 2026-11-05 18:46:11
 • Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+ASIANPAINT  2026-11-04 SMA_Crossover BEARISH  2418.30         1
+LIQUIDBEES  2026-11-04 SMA_Crossover BEARISH   999.99         1
  BANKINDIA  2026-11-03 SMA_Crossover BEARISH   133.17         1
     BIOCON  2026-11-03 SMA_Crossover BEARISH   343.00         1
      CANBK  2026-11-03 SMA_Crossover BEARISH   117.50         1
