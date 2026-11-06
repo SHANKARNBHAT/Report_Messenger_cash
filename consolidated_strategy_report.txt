@@ -1,51 +1,26 @@
-Generated on: 2026-11-05 18:46:11
-• Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
+Generated on: 2026-11-06 17:58:28
+• Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
 ADANIPORTS         1    1752.50      -
   DIVISLAB         1    9505.50      -
-    GESHIP         1    1532.40      -
+    GESHIP         1    1532.40 ACTIVE
  HBLENGINE         1     788.00      -
+KARURVYSYA         1     337.70      -
 LAURUSLABS         1    2058.90      -
       MRPL         1     182.61      -
     NAZARA         1     402.15      -
   PETRONET         1     291.75      -
    RAYMOND         1    1172.30      -
-SHREEJISPG         1     788.85      -
+SHREEJISPG         1     811.50      -
    TFCILTD         1     154.31      -
  ZYDUSLIFE         1    1160.40      -
 
 ## bearish_overlaps
-    symbol  lot_size last_close active
-SUPREMEIND         1    3491.20      -
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
-    AVALON  2026-10-22  RSI_Strategy BEARISH         1
-     CANBK  2026-10-22 SMA_Crossover BEARISH         1
- COALINDIA  2026-10-22  RSI_Strategy BEARISH         1
- EICHERMOT  2026-10-22 SMA_Crossover BEARISH         1
-ENGINERSIN  2026-10-22  RSI_Strategy BEARISH         1
- HINDPETRO  2026-10-22 SMA_Crossover BEARISH         1
-  INDHOTEL  2026-10-22  RSI_Strategy BULLISH         1
-   INDIANB  2026-10-22 SMA_Crossover BEARISH         1
-  JKCEMENT  2026-10-22 SMA_Crossover BEARISH         1
-      KMEW  2026-10-22 SMA_Crossover BULLISH         1
-   MANKIND  2026-10-22  RSI_Strategy BEARISH         1
-  RELIANCE  2026-10-22 SMA_Crossover BEARISH         1
-     SENCO  2026-10-22 SMA_Crossover BEARISH         1
-TATACONSUM  2026-10-22 SMA_Crossover BEARISH         1
-     TRENT  2026-10-22 SMA_Crossover BEARISH         1
-       VBL  2026-10-22  RSI_Strategy BEARISH         1
-WAAREEENER  2026-10-22 SMA_Crossover BEARISH         1
-CASTROLIND  2026-10-22 SMA_Crossover BULLISH         1
-CHENNPETRO  2026-10-22 SMA_Crossover BULLISH         1
- EDELWEISS  2026-10-22  RSI_Strategy BEARISH         1
-SHREEJISPG  2026-10-22  RSI_Strategy BULLISH         1
-    SMLMAH  2026-10-22  RSI_Strategy BEARISH         1
-SUPREMEIND  2026-10-22 SMA_Crossover BEARISH         1
-WOCKPHARMA  2026-10-22  RSI_Strategy BEARISH         1
 ANANDRATHI  2026-10-23  RSI_Strategy BULLISH         1
     AVALON  2026-10-23  RSI_Strategy BEARISH         1
       AZAD  2026-10-23  RSI_Strategy BEARISH         1
@@ -233,3 +208,29 @@ PCJEWELLER  2026-11-04 SMA_Crossover BULLISH         1
  SOUTHBANK  2026-11-04  RSI_Strategy BULLISH         1
      TARIL  2026-11-04 SMA_Crossover BULLISH         1
      TRENT  2026-11-04  RSI_Strategy BULLISH         1
+    AUBANK  2026-11-06 SMA_Crossover BEARISH         1
+  AXISBANK  2026-11-06  RSI_Strategy BULLISH         1
+ BRITANNIA  2026-11-06 SMA_Crossover BEARISH         1
+CHENNPETRO  2026-11-06 SMA_Crossover BULLISH         1
+     CIPLA  2026-11-06  RSI_Strategy BULLISH         1
+  EXIDEIND  2026-11-06 SMA_Crossover BEARISH         1
+  FORCEMOT  2026-11-06  RSI_Strategy BULLISH         1
+  GODREJCP  2026-11-06 SMA_Crossover BEARISH         1
+  GOLDBEES  2026-11-06 SMA_Crossover BEARISH         1
+     GVT&D  2026-11-06 SMA_Crossover BEARISH         1
+  HDFCLIFE  2026-11-06  RSI_Strategy BULLISH         1
+HINDUNILVR  2026-11-06  RSI_Strategy BULLISH         1
+  ICICIAMC  2026-11-06 SMA_Crossover BEARISH         1
+KARURVYSYA  2026-11-06  RSI_Strategy BULLISH         1
+    KAYNES  2026-11-06 SMA_Crossover BEARISH         1
+      KMEW  2026-11-06 SMA_Crossover BULLISH         1
+      LICI  2026-11-06 SMA_Crossover BEARISH         1
+MOTILALOFS  2026-11-06  RSI_Strategy BULLISH         1
+      MRPL  2026-11-06 SMA_Crossover BULLISH         1
+NAVINFLUOR  2026-11-06  RSI_Strategy BULLISH         1
+       SRF  2026-11-06 SMA_Crossover BEARISH         1
+  TATACHEM  2026-11-06 SMA_Crossover BEARISH         1
+  TATAGOLD  2026-11-06 SMA_Crossover BEARISH         1
+ TATAPOWER  2026-11-06 SMA_Crossover BEARISH         1
+ TIPSMUSIC  2026-11-06  RSI_Strategy BULLISH         1
+ WAAREERTL  2026-11-06 SMA_Crossover BEARISH         1

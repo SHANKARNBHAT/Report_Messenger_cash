@@ -1,7 +1,21 @@
-Generated on: 2026-11-05 18:46:11
-• Market Baseline: Nifty 50 is currently Bearish (Close vs 200 SMA & SMA 20 vs SMA 50).
+Generated on: 2026-11-06 17:58:28
+• Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+    AUBANK  2026-11-06 SMA_Crossover BEARISH   931.80         1
+ BRITANNIA  2026-11-06 SMA_Crossover BEARISH  4785.00         1
+  EXIDEIND  2026-11-06 SMA_Crossover BEARISH   357.35         1
+  GODREJCP  2026-11-06 SMA_Crossover BEARISH   851.00         1
+  GOLDBEES  2026-11-06 SMA_Crossover BEARISH   116.20         1
+     GVT&D  2026-11-06 SMA_Crossover BEARISH  4018.00         1
+  ICICIAMC  2026-11-06 SMA_Crossover BEARISH  2935.80         1
+    KAYNES  2026-11-06 SMA_Crossover BEARISH  3233.00         1
+      LICI  2026-11-06 SMA_Crossover BEARISH   394.00         1
+       SRF  2026-11-06 SMA_Crossover BEARISH  2460.40         1
+  TATACHEM  2026-11-06 SMA_Crossover BEARISH   607.45         1
+  TATAGOLD  2026-11-06 SMA_Crossover BEARISH    13.68         1
+ TATAPOWER  2026-11-06 SMA_Crossover BEARISH   352.50         1
+ WAAREERTL  2026-11-06 SMA_Crossover BEARISH   733.35         1
 ASIANPAINT  2026-11-04 SMA_Crossover BEARISH  2418.30         1
 LIQUIDBEES  2026-11-04 SMA_Crossover BEARISH   999.99         1
  BANKINDIA  2026-11-03 SMA_Crossover BEARISH   133.17         1
@@ -78,22 +92,3 @@ JAICORPLTD  2026-10-23 SMA_Crossover BEARISH    90.24         1
      SYRMA  2026-10-23  RSI_Strategy BEARISH  1433.10         1
  TATAPOWER  2026-10-23 SMA_Crossover BEARISH   348.10         1
 TDPOWERSYS  2026-10-23  RSI_Strategy BEARISH   639.55         1
-    AVALON  2026-10-22  RSI_Strategy BEARISH  1952.00         1
-     CANBK  2026-10-22 SMA_Crossover BEARISH   119.35         1
- COALINDIA  2026-10-22  RSI_Strategy BEARISH   396.80         1
- EDELWEISS  2026-10-22  RSI_Strategy BEARISH   119.77         1
- EICHERMOT  2026-10-22 SMA_Crossover BEARISH  7058.00         1
-ENGINERSIN  2026-10-22  RSI_Strategy BEARISH   253.05         1
- HINDPETRO  2026-10-22 SMA_Crossover BEARISH   342.25         1
-   INDIANB  2026-10-22 SMA_Crossover BEARISH   846.30         1
-  JKCEMENT  2026-10-22 SMA_Crossover BEARISH  4857.50         1
-   MANKIND  2026-10-22  RSI_Strategy BEARISH  2243.10         1
-  RELIANCE  2026-10-22 SMA_Crossover BEARISH  1191.80         1
-     SENCO  2026-10-22 SMA_Crossover BEARISH   320.90         1
-    SMLMAH  2026-10-22  RSI_Strategy BEARISH  4951.00         1
-SUPREMEIND  2026-10-22 SMA_Crossover BEARISH  3491.20         1
-TATACONSUM  2026-10-22 SMA_Crossover BEARISH   953.65         1
-     TRENT  2026-10-22 SMA_Crossover BEARISH  2785.50         1
-       VBL  2026-10-22  RSI_Strategy BEARISH   402.15         1
-WAAREEENER  2026-10-22 SMA_Crossover BEARISH  2373.40         1
-WOCKPHARMA  2026-10-22  RSI_Strategy BEARISH  1855.50         1
