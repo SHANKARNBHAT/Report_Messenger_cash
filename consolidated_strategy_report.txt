@@ -1,51 +1,23 @@
-Generated on: 2026-11-09 21:27:11
+Generated on: 2026-11-10 18:41:11
 • Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-ADANIPORTS         1    1752.50      -
+ADANIPORTS         1    1761.30      -
   DIVISLAB         1    9505.50 ACTIVE
-    GESHIP         1    1532.40 ACTIVE
+    GESHIP         1    1618.80 ACTIVE
  HBLENGINE         1     788.00      -
-KARURVYSYA         1     337.70      -
-LAURUSLABS         1    2058.90 ACTIVE
+KARURVYSYA         1     350.60      -
   LGEINDIA         1    1690.60      -
    MANKIND         1    2502.50 ACTIVE
-      MRPL         1     182.61      -
-  PETRONET         1     291.75      -
+      MRPL         1     189.44      -
    RAYMOND         1    1172.30      -
-   SANSERA         1    4147.70 ACTIVE
-SHREEJISPG         1     811.50      -
-   TFCILTD         1     154.31      -
- ZYDUSLIFE         1    1160.40      -
+   SANSERA         1    4290.60 ACTIVE
 
 ## bearish_overlaps
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
-ADANIPORTS  2026-10-26 SMA_Crossover BULLISH         1
-  AEROFLEX  2026-10-26  RSI_Strategy BEARISH         1
-    APOLLO  2026-10-26 SMA_Crossover BULLISH         1
-   COFORGE  2026-10-26  RSI_Strategy BULLISH         1
-   DRREDDY  2026-10-26  RSI_Strategy BULLISH         1
-    GESHIP  2026-10-26 SMA_Crossover BULLISH         1
-KARURVYSYA  2026-10-26 SMA_Crossover BULLISH         1
-   KTKBANK  2026-10-26  RSI_Strategy BEARISH         1
-LAURUSLABS  2026-10-26 SMA_Crossover BULLISH         1
-LIQUIDBEES  2026-10-26 SMA_Crossover BEARISH         1
-       LTM  2026-10-26 SMA_Crossover BEARISH         1
-   MPHASIS  2026-10-26  RSI_Strategy BULLISH         1
-      MRPL  2026-10-26 SMA_Crossover BULLISH         1
-  PETRONET  2026-10-26 SMA_Crossover BULLISH         1
- PREMEXPLN  2026-10-26  RSI_Strategy BEARISH         1
-   SANSERA  2026-10-26 SMA_Crossover BULLISH         1
-SHREEJISPG  2026-10-26 SMA_Crossover BULLISH         1
-SHREEJISPG  2026-10-26  RSI_Strategy BULLISH         1
-SUPREMEIND  2026-10-26  RSI_Strategy BEARISH         1
-   TFCILTD  2026-10-26 SMA_Crossover BULLISH         1
-   TFCILTD  2026-10-26  RSI_Strategy BULLISH         1
-ZENSARTECH  2026-10-26  RSI_Strategy BULLISH         1
- ZYDUSLIFE  2026-10-26 SMA_Crossover BULLISH         1
 AARTIPHARM  2026-10-27 SMA_Crossover BULLISH         1
    ACUTAAS  2026-10-27  RSI_Strategy BULLISH         1
      AEQUS  2026-10-27  RSI_Strategy BEARISH         1

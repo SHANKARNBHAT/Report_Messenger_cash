@@ -1,4 +1,4 @@
-Generated on: 2026-11-09 21:27:11
+Generated on: 2026-11-10 18:41:11
 • Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol rvol    close daily_range  atr_14  is_active        trend  action
@@ -23,9 +23,9 @@ LAURUSLABS 1.70  2454.00      128.50   89.33          1      Bullish  1.Long
       RAIN 2.48   162.03       20.30   12.33          1      Bearish 2.Short
 COCHINSHIP 2.14  1290.00       64.40   48.54          1      Bearish 2.Short
       RVNL 2.08   201.70       11.28    7.14          1      Bearish 2.Short
- TATASTEEL 2.06   184.85        9.66    5.45          1      Bearish 2.Short
+ TATASTEEL 2.07   184.85        9.66    5.45          1      Bearish 2.Short
    RRKABEL 2.02  1969.40      122.00  118.11          1      Bearish 2.Short
-      IRFC 1.93    83.50        4.44    2.42          1      Bearish 2.Short
+      IRFC 1.94    83.50        4.44    2.42          1      Bearish 2.Short
   HINDALCO 1.87   960.00       48.40   27.08          1      Bearish 2.Short
    HAVELLS 1.84  1159.50       40.60   36.32          1      Bearish 2.Short
      ALKEM 1.58  5398.50      162.50  133.36          1      Bearish 2.Short
@@ -35,13 +35,13 @@ SUPREMEIND 1.09  3296.60      161.00  122.59          0      Bearish 2.Short
      LUPIN 1.03  2025.00       45.50   42.86          0      Bearish 2.Short
 CHOLAHLDNG 1.03  1424.40       74.30   60.51          0      Bearish 2.Short
      IOLCP 7.99   202.95       30.75   12.39          1 Undetermined 3.Watch
- FINCABLES 7.14  1232.40      105.90   76.29          1 Undetermined 3.Watch
+ FINCABLES 7.15  1232.40      105.90   76.29          1 Undetermined 3.Watch
    SAILIFE 6.32  1836.80      198.30   74.31          1 Undetermined 3.Watch
 DATAPATTNS 6.03  4025.00      442.50  217.16          1 Undetermined 3.Watch
 NEULANDLAB 2.27 20322.00     1385.00  824.50          1 Undetermined 3.Watch
     GRASIM 2.26  3169.70       80.60   68.47          1 Undetermined 3.Watch
    ASTERDM 2.11   733.50       43.05   24.02          1 Undetermined 3.Watch
-AUROPHARMA 2.11  1855.30       55.40   48.36          1 Undetermined 3.Watch
+AUROPHARMA 2.11  1848.30       55.19   48.18          1 Undetermined 3.Watch
   EXIDEIND 2.01   385.05       23.25   15.84          1 Undetermined 3.Watch
   GLENMARK 1.97  2671.10      141.80   99.53          1 Undetermined 3.Watch
       SBIN 1.95  1042.00       26.30   23.50          1 Undetermined 3.Watch
@@ -50,19 +50,20 @@ AUROPHARMA 2.11  1855.30       55.40   48.36          1 Undetermined 3.Watch
  BANKINDIA 1.65   145.00        6.25    4.58          1 Undetermined 3.Watch
 JINDALSTEL 1.57  1146.00       32.30   29.91          1 Undetermined 3.Watch
   UNOMINDA 1.44  1353.80       76.00   48.87          0 Undetermined 3.Watch
+ICICIPRULI 1.36   438.40       13.30   12.32          0 Undetermined 3.Watch
         LT 1.35  4185.00       96.70   92.90          0 Undetermined 3.Watch
 ASTRAMICRO 1.33  1659.70       76.40   63.83          0 Undetermined 3.Watch
-WOCKPHARMA 1.31  2031.50      112.40   81.71          0 Undetermined 3.Watch
+WOCKPHARMA 1.32  2031.50      112.40   81.71          0 Undetermined 3.Watch
        ABB 1.30  6915.00      327.00  260.39          0 Undetermined 3.Watch
       PGEL 1.23   564.00       25.15   22.30          0 Undetermined 3.Watch
       CGCL 1.21   245.23        9.30    7.19          0 Undetermined 3.Watch
-LALPATHLAB 1.16  2016.50       88.90   74.42          0 Undetermined 3.Watch
+LALPATHLAB 1.16  2011.50       88.68   74.24          0 Undetermined 3.Watch
    RUBICON 1.11  1771.70      124.50   76.06          0 Undetermined 3.Watch
  LICHSGFIN 1.08   551.90       19.10   15.75          0 Undetermined 3.Watch
 TECHNOCRAF 1.07   500.55       33.00   31.79          0 Undetermined 3.Watch
 TDPOWERSYS 2.50   571.65       43.90   46.66          1      Bearish  4.Wait
   GRANULES 2.47   799.20       21.90   31.15          1 Undetermined  4.Wait
-    ANURAS 2.39  1198.30       31.00   33.13          1      Bearish  4.Wait
+    ANURAS 2.40  1198.30       31.00   33.13          1      Bearish  4.Wait
 KALYANKJIL 2.33   611.00       19.45   23.62          1 Undetermined  4.Wait
       ZEEL 2.28    69.77        2.80    4.07          1      Bearish  4.Wait
  NTPCGREEN 2.23    82.49        2.21    2.58          1      Bearish  4.Wait
@@ -74,8 +75,8 @@ KALYANKJIL 2.33   611.00       19.45   23.62          1 Undetermined  4.Wait
       ONGC 1.78   233.50        3.78    4.91          1      Bearish  4.Wait
        IOC 1.78   146.85        3.47    3.62          1 Undetermined  4.Wait
   HDFCBANK 1.77   798.15       15.95   17.41          1      Bullish  4.Wait
+ ICICIBANK 1.70  1589.00       19.80   33.24          1      Bullish  4.Wait
       NMDC 1.70    71.50        1.21    1.83          1      Bearish  4.Wait
- ICICIBANK 1.69  1589.00       19.80   33.24          1      Bullish  4.Wait
      PIIND 1.66  1712.90       42.80   90.04          1      Bearish  4.Wait
     GESHIP 1.58  1426.00       49.90   60.89          1      Bullish  4.Wait
   MAHABANK 1.55    87.68        2.26    2.91          1 Undetermined  4.Wait
@@ -85,7 +86,7 @@ MUTHOOTFIN 1.45  2917.60       66.10  104.32          0      Bearish  4.Wait
   LGEINDIA 1.41  1793.80       47.40   55.01          0      Bullish  4.Wait
       AZAD 1.40  2434.20      114.90  120.66          0 Undetermined  4.Wait
   ASHOKLEY 1.38   174.86        5.60    5.75          0 Undetermined  4.Wait
-   SIEMENS 1.36  3655.00      120.90  129.77          0 Undetermined  4.Wait
+   SIEMENS 1.37  3655.00      120.90  129.77          0 Undetermined  4.Wait
  KIRLOSENG 1.36  1622.70       65.90   97.53          0      Bearish  4.Wait
    THERMAX 1.33  2785.90      118.80  148.82          0      Bearish  4.Wait
    IPCALAB 1.32  1959.70       63.40   74.64          0 Undetermined  4.Wait
@@ -105,7 +106,7 @@ TORNTPHARM 1.21  4780.00      100.50  116.55          0 Undetermined  4.Wait
  ZYDUSLIFE 1.12  1215.90       36.40   36.85          0      Bullish  4.Wait
     VIYASH 1.12   237.51        7.20   10.61          0 Undetermined  4.Wait
       TMCV 1.12   436.65       12.85   16.05          0 Undetermined  4.Wait
-     APTUS 1.11   176.03        6.32    9.66          0      Bearish  4.Wait
+     APTUS 1.12   176.03        6.32    9.66          0      Bearish  4.Wait
 BAJAJ-AUTO 1.11 10979.00      199.00  271.79          0 Undetermined  4.Wait
 MOTILALOFS 1.10  1147.30       26.80   49.50          0 Undetermined  4.Wait
   HINDZINC 1.08   575.95        8.65   19.73          0 Undetermined  4.Wait
