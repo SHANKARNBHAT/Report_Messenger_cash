@@ -1,5 +1,5 @@
-Generated on: 2026-11-11 18:43:11
-• Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
+Generated on: 2026-11-12 18:56:43
+• Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
 LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH   999.99         1
@@ -57,14 +57,3 @@ HEROMOTOCO  2026-10-29 SMA_Crossover BEARISH  5105.00         1
   KPITTECH  2026-10-29 SMA_Crossover BEARISH   543.70         1
        LTM  2026-10-29 SMA_Crossover BEARISH  4094.70         1
     VIYASH  2026-10-29 SMA_Crossover BEARISH   224.55         1
-ADANIENSOL  2026-10-28 SMA_Crossover BEARISH  1294.00         1
-BANKBARODA  2026-10-28 SMA_Crossover BEARISH   231.82         1
-      BPCL  2026-10-28 SMA_Crossover BEARISH   287.00         1
-  FORCEMOT  2026-10-28 SMA_Crossover BEARISH 17094.00         1
- HINDPETRO  2026-10-28 SMA_Crossover BEARISH   347.15         1
-  INDIACEM  2026-10-28 SMA_Crossover BEARISH   302.90         1
-JINDALSTEL  2026-10-28 SMA_Crossover BEARISH  1048.10         1
-    KAYNES  2026-10-28 SMA_Crossover BEARISH  3140.00         1
-LIQUIDBEES  2026-10-28 SMA_Crossover BEARISH   999.99         1
-       OIL  2026-10-28 SMA_Crossover BEARISH   447.50         1
-  RELIANCE  2026-10-28 SMA_Crossover BEARISH  1158.00         1

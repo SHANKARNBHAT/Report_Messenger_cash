@@ -1,7 +1,34 @@
-Generated on: 2026-11-11 18:43:11
-• Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
+Generated on: 2026-11-12 18:56:43
+• Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+    360ONE  2026-11-11  RSI_Strategy BULLISH  1170.00         1
+     ALKEM  2026-11-11  RSI_Strategy BULLISH  5448.00         1
+      BBOX  2026-11-11 SMA_Crossover BULLISH   868.20         1
+  BOSCHLTD  2026-11-11  RSI_Strategy BULLISH 50490.00         1
+     CANBK  2026-11-11  RSI_Strategy BULLISH   132.30         1
+      CDSL  2026-11-11  RSI_Strategy BULLISH  1407.00         1
+     CIPLA  2026-11-11  RSI_Strategy BULLISH  1419.90         1
+     CUPID  2026-11-11  RSI_Strategy BULLISH   354.00         1
+ DELTACORP  2026-11-11  RSI_Strategy BULLISH    83.13         1
+ENGINERSIN  2026-11-11  RSI_Strategy BULLISH   311.20         1
+FEDERALBNK  2026-11-11  RSI_Strategy BULLISH   361.60         1
+GMRAIRPORT  2026-11-11  RSI_Strategy BULLISH   100.97         1
+HINDUNILVR  2026-11-11  RSI_Strategy BULLISH  2003.40         1
+ IBULLSLTD  2026-11-11 SMA_Crossover BULLISH    30.37         1
+      IIFL  2026-11-11  RSI_Strategy BULLISH   666.25         1
+       ITC  2026-11-11  RSI_Strategy BULLISH   285.00         1
+JINDALSTEL  2026-11-11  RSI_Strategy BULLISH  1161.70         1
+  JUSTDIAL  2026-11-11 SMA_Crossover BULLISH   683.70         1
+     KROSS  2026-11-11  RSI_Strategy BULLISH   303.10         1
+   KTKBANK  2026-11-11  RSI_Strategy BULLISH   349.50         1
+LALPATHLAB  2026-11-11  RSI_Strategy BULLISH  2028.70         1
+ LICHSGFIN  2026-11-11  RSI_Strategy BULLISH   565.00         1
+    MEESHO  2026-11-11  RSI_Strategy BULLISH   248.16         1
+  PRESTIGE  2026-11-11  RSI_Strategy BULLISH  1625.00         1
+   RKFORGE  2026-11-11  RSI_Strategy BULLISH   764.70         1
+   SKYGOLD  2026-11-11 SMA_Crossover BULLISH   983.40         1
+     TARIL  2026-11-11 SMA_Crossover BULLISH   316.25         1
  BANKINDIA  2026-11-09  RSI_Strategy BULLISH   145.00         1
  DELTACORP  2026-11-09 SMA_Crossover BULLISH    81.13         1
    INDOMIM  2026-11-09  RSI_Strategy BULLISH  1274.40         1
@@ -92,10 +119,3 @@ BHARTIARTL  2026-10-29  RSI_Strategy BULLISH  1972.10         1
   TVSMOTOR  2026-10-29  RSI_Strategy BULLISH  4280.00         1
 UTTAMSUGAR  2026-10-29 SMA_Crossover BULLISH   360.70         1
 ZENSARTECH  2026-10-29  RSI_Strategy BULLISH   537.30         1
-ADANIPORTS  2026-10-28 SMA_Crossover BULLISH  1761.30         1
-  LGEINDIA  2026-10-28 SMA_Crossover BULLISH  1690.60         1
-    MEESHO  2026-10-28 SMA_Crossover BULLISH   227.84         1
-   PAISALO  2026-10-28 SMA_Crossover BULLISH    78.97         1
- PPLPHARMA  2026-10-28  RSI_Strategy BULLISH   232.80         1
- TATAELXSI  2026-10-28  RSI_Strategy BULLISH  3755.00         1
-   WELCORP  2026-10-28 SMA_Crossover BULLISH  2564.30         1

@@ -1,11 +1,6 @@
-Generated on: 2026-11-11 18:43:11
-• Market Baseline: Nifty 50 is currently Undetermined (Close vs 200 SMA & SMA 20 vs SMA 50).
+Generated on: 2026-11-12 18:56:43
+• Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol rvol  close daily_range atr_14  is_active   trend action
-LIQUIDIETF 1.51 999.99        0.02   0.35          1 Bullish 4.Wait
- NIFTYBEES 1.48 286.54        4.71   4.73          0 Bullish 4.Wait
-  GOLDBEES 1.47 115.31        0.68   1.89          0 Bearish 4.Wait
-LIQUIDBEES 1.29 999.99        0.98   1.62          0 Bearish 4.Wait
-  TATAGOLD 1.18  13.56        0.10   0.22          0 Bearish 4.Wait
-  GOLDIETF 1.12 119.43        0.72   2.03          0 Bearish 4.Wait
-SILVERBEES 1.08 176.84        2.45   5.22          0 Bearish 4.Wait
+  GOLDIETF 2.73 116.90        1.51   2.15          1 Bearish 4.Wait
+LIQUIDIETF 1.35 999.99        0.02   0.35          0 Bullish 4.Wait
