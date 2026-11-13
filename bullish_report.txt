@@ -1,7 +1,26 @@
-Generated on: 2026-11-12 18:56:43
+Generated on: 2026-11-13 18:32:40
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+AARTIPHARM  2026-11-12  RSI_Strategy BULLISH  1010.50         1
+ ABCAPITAL  2026-11-12  RSI_Strategy BULLISH   419.50         1
+ASTRAMICRO  2026-11-12  RSI_Strategy BULLISH  1785.80         1
+       BEL  2026-11-12  RSI_Strategy BULLISH   404.80         1
+    ELECON  2026-11-12 SMA_Crossover BULLISH   455.35         1
+GODREJPROP  2026-11-12  RSI_Strategy BULLISH  1879.50         1
+   ICICIGI  2026-11-12  RSI_Strategy BULLISH  1700.60         1
+      KMEW  2026-11-12  RSI_Strategy BULLISH   713.00         1
+LIQUIDBEES  2026-11-12 SMA_Crossover BULLISH  1000.00         1
+     LODHA  2026-11-12  RSI_Strategy BULLISH  1226.00         1
+   MPHASIS  2026-11-12 SMA_Crossover BULLISH  2410.00         1
+     PAYTM  2026-11-12  RSI_Strategy BULLISH  1925.00         1
+      PGEL  2026-11-12  RSI_Strategy BULLISH   573.30         1
+POONAWALLA  2026-11-12  RSI_Strategy BULLISH   493.00         1
+   RAYMOND  2026-11-12 SMA_Crossover BULLISH  1126.40         1
+   SBILIFE  2026-11-12  RSI_Strategy BULLISH  1819.50         1
+   SKYGOLD  2026-11-12  RSI_Strategy BULLISH  1050.05         1
+ TIPSMUSIC  2026-11-12  RSI_Strategy BULLISH   785.55         1
+      TMCV  2026-11-12  RSI_Strategy BULLISH   453.40         1
     360ONE  2026-11-11  RSI_Strategy BULLISH  1170.00         1
      ALKEM  2026-11-11  RSI_Strategy BULLISH  5448.00         1
       BBOX  2026-11-11 SMA_Crossover BULLISH   868.20         1
@@ -103,19 +122,3 @@ ULTRACEMCO  2026-11-03  RSI_Strategy BULLISH 11700.00         1
 PERSISTENT  2026-10-30  RSI_Strategy BULLISH  6048.00         1
  SHILPAMED  2026-10-30 SMA_Crossover BULLISH   955.60         1
  ZYDUSLIFE  2026-10-30  RSI_Strategy BULLISH  1245.50         1
-AARTIPHARM  2026-10-29 SMA_Crossover BULLISH   927.65         1
-ADANIPORTS  2026-10-29  RSI_Strategy BULLISH  1872.00         1
-BHARTIARTL  2026-10-29  RSI_Strategy BULLISH  1972.10         1
-     BSOFT  2026-10-29  RSI_Strategy BULLISH   342.50         1
-  DIVISLAB  2026-10-29  RSI_Strategy BULLISH  9664.00         1
-    GESHIP  2026-10-29  RSI_Strategy BULLISH  1618.80         1
-    ITBEES  2026-10-29  RSI_Strategy BULLISH    35.46         1
- KOTAKBANK  2026-10-29  RSI_Strategy BULLISH   459.00         1
-    NAZARA  2026-10-29  RSI_Strategy BULLISH   405.40         1
-       PNB  2026-10-29  RSI_Strategy BULLISH   123.90         1
-       PWL  2026-10-29 SMA_Crossover BULLISH   132.51         1
- RATNAVEER  2026-10-29  RSI_Strategy BULLISH   352.85         1
-     SYRMA  2026-10-29 SMA_Crossover BULLISH  1669.00         1
-  TVSMOTOR  2026-10-29  RSI_Strategy BULLISH  4280.00         1
-UTTAMSUGAR  2026-10-29 SMA_Crossover BULLISH   360.70         1
-ZENSARTECH  2026-10-29  RSI_Strategy BULLISH   537.30         1
