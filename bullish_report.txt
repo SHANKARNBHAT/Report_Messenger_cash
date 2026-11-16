@@ -1,7 +1,15 @@
-Generated on: 2026-11-13 18:32:40
+Generated on: 2026-11-16 21:02:46
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+    ANURAS  2026-11-13  RSI_Strategy BULLISH  1300.60         1
+    APOLLO  2026-11-13  RSI_Strategy BULLISH   475.60         1
+ASIANPAINT  2026-11-13  RSI_Strategy BULLISH  2550.00         1
+    GESHIP  2026-11-13 SMA_Crossover BULLISH  1518.00         1
+HINDUNILVR  2026-11-13  RSI_Strategy BULLISH  1992.90         1
+    NAZARA  2026-11-13  RSI_Strategy BULLISH   425.40         1
+     NYKAA  2026-11-13  RSI_Strategy BULLISH   365.20         1
+     PTCIL  2026-11-13 SMA_Crossover BULLISH 24365.00         1
 AARTIPHARM  2026-11-12  RSI_Strategy BULLISH  1010.50         1
  ABCAPITAL  2026-11-12  RSI_Strategy BULLISH   419.50         1
 ASTRAMICRO  2026-11-12  RSI_Strategy BULLISH  1785.80         1
@@ -116,9 +124,3 @@ TATACONSUM  2026-11-03  RSI_Strategy BULLISH  1073.00         1
 TECHNOCRAF  2026-11-03  RSI_Strategy BULLISH   506.85         1
   TVSMOTOR  2026-11-03  RSI_Strategy BULLISH  4303.20         1
 ULTRACEMCO  2026-11-03  RSI_Strategy BULLISH 11700.00         1
-   COFORGE  2026-10-30  RSI_Strategy BULLISH  2045.00         1
-   ETERNAL  2026-10-30  RSI_Strategy BULLISH   343.65         1
-      INFY  2026-10-30  RSI_Strategy BULLISH  1185.00         1
-PERSISTENT  2026-10-30  RSI_Strategy BULLISH  6048.00         1
- SHILPAMED  2026-10-30 SMA_Crossover BULLISH   955.60         1
- ZYDUSLIFE  2026-10-30  RSI_Strategy BULLISH  1245.50         1
