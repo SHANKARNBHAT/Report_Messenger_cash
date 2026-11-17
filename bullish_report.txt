@@ -1,7 +1,17 @@
-Generated on: 2026-11-16 21:02:46
+Generated on: 2026-11-17 10:36:01
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+ ABCAPITAL  2026-11-17  RSI_Strategy BULLISH   411.50         1
+ADANIENSOL  2026-11-17  RSI_Strategy BULLISH  1493.70         1
+ DELHIVERY  2026-11-17  RSI_Strategy BULLISH   457.95         1
+ EICHERMOT  2026-11-17  RSI_Strategy BULLISH  7828.00         1
+     IREDA  2026-11-17  RSI_Strategy BULLISH   117.40         1
+     IXIGO  2026-11-17  RSI_Strategy BULLISH   175.61         1
+LAURUSLABS  2026-11-17 SMA_Crossover BULLISH  2338.00         1
+    NEOGEN  2026-11-17  RSI_Strategy BULLISH  2778.60         1
+  PRESTIGE  2026-11-17  RSI_Strategy BULLISH  1691.50         1
+WELSPUNLIV  2026-11-17  RSI_Strategy BULLISH   265.62         1
     ANURAS  2026-11-13  RSI_Strategy BULLISH  1300.60         1
     APOLLO  2026-11-13  RSI_Strategy BULLISH   475.60         1
 ASIANPAINT  2026-11-13  RSI_Strategy BULLISH  2550.00         1

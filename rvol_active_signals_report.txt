@@ -1,3 +1,58 @@
-Generated on: 2026-11-16 21:02:46
+Generated on: 2026-11-17 10:36:01
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
+    symbol      strategy    bias last_trigger  lot_size rvol  atr14 daily_range   close
+    360ONE  RSI_Strategy BULLISH   2026-11-11         1 1.42  39.75       50.45 1202.85
+AARTIPHARM  RSI_Strategy BULLISH   2026-11-12         1 1.21  48.15       66.50 1015.90
+ADANIENSOL  RSI_Strategy BULLISH   2026-11-17         1 1.12  44.66       50.00 1493.70
+  ANGELONE SMA_Crossover BULLISH   2026-11-03         1 7.19  13.17       34.70  349.80
+    ANURAS  RSI_Strategy BULLISH   2026-11-13         1 1.12  34.59       22.40 1317.50
+ASIANPAINT  RSI_Strategy BULLISH   2026-11-13         1 1.26  75.86       67.50 2625.00
+ASTRAMICRO  RSI_Strategy BULLISH   2026-11-12         1 1.05  70.41       81.50 1660.40
+  AXISBANK  RSI_Strategy BULLISH   2026-11-06         1 1.03  28.86       29.40 1369.00
+ BANKINDIA  RSI_Strategy BULLISH   2026-11-09         1 1.92   4.57        6.75  159.28
+   BELRISE SMA_Crossover BEARISH   2026-11-13         1 1.55   8.22        8.30  235.66
+       BSE  RSI_Strategy BULLISH   2026-11-03         1 1.95 109.03      161.30 3864.90
+     CANBK  RSI_Strategy BULLISH   2026-11-11         1 2.01   3.24        4.60  134.00
+      CDSL  RSI_Strategy BULLISH   2026-11-11         1 1.48  43.95       55.90 1439.80
+ COALINDIA SMA_Crossover BEARISH   2026-11-17         1 2.73   8.54       10.75  391.55
+ DELHIVERY  RSI_Strategy BULLISH   2026-11-17         1 2.14  14.68       26.75  457.95
+ DELTACORP  RSI_Strategy BULLISH   2026-11-11         1 1.20   4.44        5.13   84.98
+       DLF  RSI_Strategy BULLISH   2026-11-03         1 1.03  19.50       21.40  765.95
+ EICHERMOT  RSI_Strategy BULLISH   2026-11-17         1 1.34 214.07      237.50 7828.00
+ENGINERSIN  RSI_Strategy BULLISH   2026-11-11         1 1.04  15.23       11.60  312.90
+  EXIDEIND SMA_Crossover BEARISH   2026-11-06         1 1.87  16.01       23.60  380.15
+GMRAIRPORT  RSI_Strategy BULLISH   2026-11-11         1 2.01   3.03        3.76  104.50
+  GOLDBEES SMA_Crossover BEARISH   2026-11-06         1 1.02   2.02        0.90  109.92
+     GROWW  RSI_Strategy BULLISH   2026-11-03         1 1.55   8.26        7.40  227.53
+  HINDALCO SMA_Crossover BEARISH   2026-11-13         1 1.10  25.03       23.00  927.75
+  ICICIAMC SMA_Crossover BEARISH   2026-11-06         1 1.20  85.03       58.50 3000.80
+      IIFL  RSI_Strategy BULLISH   2026-11-11         1 1.54  33.60       38.65  636.40
+   INDOMIM  RSI_Strategy BULLISH   2026-11-09         1 1.30  56.41       51.80 1217.50
+     IREDA  RSI_Strategy BULLISH   2026-11-17         1 2.25   4.09        7.91  117.40
+     IXIGO  RSI_Strategy BULLISH   2026-11-17         1 1.10   7.13       14.89  175.61
+JINDALSTEL  RSI_Strategy BULLISH   2026-11-11         1 1.13  26.86       22.80 1137.50
+KALYANKJIL  RSI_Strategy BULLISH   2026-11-09         1 1.19  32.57       38.70  682.75
+    KAYNES SMA_Crossover BEARISH   2026-11-06         1 3.22 152.55      174.60 2858.00
+       KEI SMA_Crossover BEARISH   2026-11-17         1 1.24 127.99      184.70 3851.00
+      KMEW  RSI_Strategy BULLISH   2026-11-12         1 1.68  42.52       61.50  738.10
+LAURUSLABS SMA_Crossover BULLISH   2026-11-17         1 1.60  99.63      134.00 2338.00
+ LICHSGFIN  RSI_Strategy BULLISH   2026-11-11         1 2.59  18.59       27.15  622.50
+      LICI SMA_Crossover BEARISH   2026-11-06         1 1.34   9.70        6.80  397.70
+  MAHABANK  RSI_Strategy BULLISH   2026-11-09         1 1.81   2.62        4.10   95.99
+    MEESHO  RSI_Strategy BULLISH   2026-11-11         1 1.28   8.83        5.45  252.64
+MOTILALOFS  RSI_Strategy BULLISH   2026-11-06         1 1.70  51.06       76.60 1240.25
+PHOENIXLTD  RSI_Strategy BULLISH   2026-11-03         1 1.66  74.28       72.20 2229.00
+   POLYCAB SMA_Crossover BEARISH   2026-11-17         1 1.66 235.46      290.50 7702.00
+ POWERGRID SMA_Crossover BEARISH   2026-11-03         1 1.05   6.90        4.75  258.00
+  PRESTIGE  RSI_Strategy BULLISH   2026-11-17         1 1.26  58.80       74.20 1691.50
+   RAYMOND SMA_Crossover BULLISH   2026-11-12         1 1.17  64.97       82.70 1224.00
+SAMMAANCAP SMA_Crossover BEARISH   2026-11-17         1 1.03   5.32        6.76  131.29
+      SBIN  RSI_Strategy BULLISH   2026-11-09         1 1.08  25.16       22.05 1108.60
+   STLTECH  RSI_Strategy BEARISH   2026-11-09         1 1.21  47.06       23.50  641.50
+  TATACHEM SMA_Crossover BEARISH   2026-11-06         1 6.61  18.38       34.90  649.45
+ TATAPOWER SMA_Crossover BEARISH   2026-11-13         1 1.08   9.44        4.85  344.50
+      TMCV  RSI_Strategy BULLISH   2026-11-12         1 1.44  16.05       19.15  445.65
+      TMPV SMA_Crossover BEARISH   2026-11-13         1 1.78   9.25        9.50  259.20
+  TVSMOTOR  RSI_Strategy BULLISH   2026-11-03         1 1.14 120.46       73.80 4466.20
+WELSPUNLIV  RSI_Strategy BULLISH   2026-11-17         1 1.11  14.48       23.39  265.62

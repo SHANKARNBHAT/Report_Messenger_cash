@@ -1,7 +1,14 @@
-Generated on: 2026-11-16 21:02:46
+Generated on: 2026-11-17 10:36:01
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+ BRITANNIA  2026-11-17 SMA_Crossover BEARISH 4700.00         1
+ COALINDIA  2026-11-17 SMA_Crossover BEARISH  391.55         1
+     ENRIN  2026-11-17 SMA_Crossover BEARISH 3021.50         1
+GENUSPOWER  2026-11-17 SMA_Crossover BEARISH  276.85         1
+       KEI  2026-11-17 SMA_Crossover BEARISH 3851.00         1
+   POLYCAB  2026-11-17 SMA_Crossover BEARISH 7702.00         1
+SAMMAANCAP  2026-11-17 SMA_Crossover BEARISH  131.29         1
      ALKEM  2026-11-13 SMA_Crossover BEARISH 5114.00         1
        BDL  2026-11-13 SMA_Crossover BEARISH 1030.00         1
    BELRISE  2026-11-13 SMA_Crossover BEARISH  215.20         1
@@ -46,4 +53,3 @@ LIQUIDBEES  2026-11-04 SMA_Crossover BEARISH  999.99         1
   KPITTECH  2026-11-03 SMA_Crossover BEARISH  519.80         1
 NATIONALUM  2026-11-03 SMA_Crossover BEARISH  317.55         1
  POWERGRID  2026-11-03 SMA_Crossover BEARISH  259.55         1
-LIQUIDBEES  2026-11-02 SMA_Crossover BEARISH  999.99         1
