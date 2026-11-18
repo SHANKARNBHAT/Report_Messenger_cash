@@ -1,47 +1,19 @@
-Generated on: 2026-11-17 10:36:01
+Generated on: 2026-11-18 10:02:38
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-    APOLLO         1     401.20      -
+    APOLLO         1     435.10      -
  DELTACORP         1      81.13      -
 KARURVYSYA         1     343.90      -
-      KMEW         1    3329.90 ACTIVE
+      KMEW         1    3329.90      -
      KROSS         1     287.05      -
-  LGEINDIA         1    1690.30      -
-   RAYMOND         1    1172.30      -
-   SANSERA         1    4225.20      -
    SKYGOLD         1     983.40      -
 
 ## bearish_overlaps
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
-  ANGELONE  2026-11-03 SMA_Crossover BULLISH         1
-    APOLLO  2026-11-03 SMA_Crossover BULLISH         1
- BANKINDIA  2026-11-03 SMA_Crossover BEARISH         1
-    BIOCON  2026-11-03 SMA_Crossover BEARISH         1
-  BOSCHLTD  2026-11-03  RSI_Strategy BULLISH         1
-       BSE  2026-11-03  RSI_Strategy BULLISH         1
-     CANBK  2026-11-03 SMA_Crossover BEARISH         1
-       DLF  2026-11-03  RSI_Strategy BULLISH         1
-      GAIL  2026-11-03  RSI_Strategy BULLISH         1
-     GLAND  2026-11-03  RSI_Strategy BULLISH         1
-     GROWW  2026-11-03  RSI_Strategy BULLISH         1
-  JUBLFOOD  2026-11-03 SMA_Crossover BEARISH         1
-  KPITTECH  2026-11-03 SMA_Crossover BEARISH         1
-  LGEINDIA  2026-11-03 SMA_Crossover BULLISH         1
-       MCX  2026-11-03  RSI_Strategy BULLISH         1
-NATIONALUM  2026-11-03 SMA_Crossover BEARISH         1
-PHOENIXLTD  2026-11-03  RSI_Strategy BULLISH         1
- POWERGRID  2026-11-03 SMA_Crossover BEARISH         1
-   RAYMOND  2026-11-03 SMA_Crossover BULLISH         1
-   RAYMOND  2026-11-03  RSI_Strategy BULLISH         1
-   SANSERA  2026-11-03 SMA_Crossover BULLISH         1
-TATACONSUM  2026-11-03  RSI_Strategy BULLISH         1
-TECHNOCRAF  2026-11-03  RSI_Strategy BULLISH         1
-  TVSMOTOR  2026-11-03  RSI_Strategy BULLISH         1
-ULTRACEMCO  2026-11-03  RSI_Strategy BULLISH         1
 ADANIPORTS  2026-11-04  RSI_Strategy BULLISH         1
     APOLLO  2026-11-04 SMA_Crossover BULLISH         1
 ASIANPAINT  2026-11-04 SMA_Crossover BEARISH         1
@@ -200,3 +172,33 @@ LAURUSLABS  2026-11-17 SMA_Crossover BULLISH         1
   PRESTIGE  2026-11-17  RSI_Strategy BULLISH         1
 SAMMAANCAP  2026-11-17 SMA_Crossover BEARISH         1
 WELSPUNLIV  2026-11-17  RSI_Strategy BULLISH         1
+APOLLOHOSP  2026-11-18  RSI_Strategy BULLISH         1
+    AUBANK  2026-11-18 SMA_Crossover BEARISH         1
+ CREDITACC  2026-11-18 SMA_Crossover BEARISH         1
+  HINDALCO  2026-11-18 SMA_Crossover BEARISH         1
+HINDCOPPER  2026-11-18 SMA_Crossover BEARISH         1
+  HINDZINC  2026-11-18 SMA_Crossover BEARISH         1
+  ICICIAMC  2026-11-18 SMA_Crossover BEARISH         1
+      IDBI  2026-11-18 SMA_Crossover BEARISH         1
+      IDEA  2026-11-18 SMA_Crossover BEARISH         1
+      IFCI  2026-11-18 SMA_Crossover BEARISH         1
+   JPPOWER  2026-11-18 SMA_Crossover BEARISH         1
+  JUBLFOOD  2026-11-18 SMA_Crossover BEARISH         1
+       LTF  2026-11-18 SMA_Crossover BEARISH         1
+   MANKIND  2026-11-18  RSI_Strategy BULLISH         1
+   MAZDOCK  2026-11-18 SMA_Crossover BEARISH         1
+      MRPL  2026-11-18 SMA_Crossover BULLISH         1
+MUTHOOTFIN  2026-11-18 SMA_Crossover BEARISH         1
+NATIONALUM  2026-11-18 SMA_Crossover BEARISH         1
+      NMDC  2026-11-18 SMA_Crossover BEARISH         1
+  PINELABS  2026-11-18 SMA_Crossover BEARISH         1
+POONAWALLA  2026-11-18  RSI_Strategy BULLISH         1
+ RATNAVEER  2026-11-18  RSI_Strategy BULLISH         1
+    RECLTD  2026-11-18 SMA_Crossover BEARISH         1
+      RVNL  2026-11-18 SMA_Crossover BEARISH         1
+      SAIL  2026-11-18 SMA_Crossover BEARISH         1
+       SRF  2026-11-18 SMA_Crossover BEARISH         1
+ TATASTEEL  2026-11-18 SMA_Crossover BEARISH         1
+      VEDL  2026-11-18 SMA_Crossover BEARISH         1
+       VMM  2026-11-18 SMA_Crossover BEARISH         1
+WAAREEENER  2026-11-18 SMA_Crossover BEARISH         1

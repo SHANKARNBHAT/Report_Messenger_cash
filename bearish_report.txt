@@ -1,7 +1,32 @@
-Generated on: 2026-11-17 10:36:01
+Generated on: 2026-11-18 10:02:38
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+    AUBANK  2026-11-18 SMA_Crossover BEARISH  977.00         1
+ CREDITACC  2026-11-18 SMA_Crossover BEARISH 1046.20         1
+  HINDALCO  2026-11-18 SMA_Crossover BEARISH  900.00         1
+HINDCOPPER  2026-11-18 SMA_Crossover BEARISH  419.20         1
+  HINDZINC  2026-11-18 SMA_Crossover BEARISH  527.00         1
+  ICICIAMC  2026-11-18 SMA_Crossover BEARISH 2949.10         1
+      IDBI  2026-11-18 SMA_Crossover BEARISH   78.82         1
+      IDEA  2026-11-18 SMA_Crossover BEARISH   12.10         1
+      IFCI  2026-11-18 SMA_Crossover BEARISH   59.73         1
+   JPPOWER  2026-11-18 SMA_Crossover BEARISH   13.31         1
+  JUBLFOOD  2026-11-18 SMA_Crossover BEARISH  420.95         1
+       LTF  2026-11-18 SMA_Crossover BEARISH  273.90         1
+   MAZDOCK  2026-11-18 SMA_Crossover BEARISH 1822.40         1
+MUTHOOTFIN  2026-11-18 SMA_Crossover BEARISH 2640.00         1
+NATIONALUM  2026-11-18 SMA_Crossover BEARISH  308.10         1
+      NMDC  2026-11-18 SMA_Crossover BEARISH   68.24         1
+  PINELABS  2026-11-18 SMA_Crossover BEARISH  169.35         1
+    RECLTD  2026-11-18 SMA_Crossover BEARISH  290.65         1
+      RVNL  2026-11-18 SMA_Crossover BEARISH  189.00         1
+      SAIL  2026-11-18 SMA_Crossover BEARISH  164.00         1
+       SRF  2026-11-18 SMA_Crossover BEARISH 2445.00         1
+ TATASTEEL  2026-11-18 SMA_Crossover BEARISH  179.00         1
+      VEDL  2026-11-18 SMA_Crossover BEARISH  245.40         1
+       VMM  2026-11-18 SMA_Crossover BEARISH   90.23         1
+WAAREEENER  2026-11-18 SMA_Crossover BEARISH 2392.00         1
  BRITANNIA  2026-11-17 SMA_Crossover BEARISH 4700.00         1
  COALINDIA  2026-11-17 SMA_Crossover BEARISH  391.55         1
      ENRIN  2026-11-17 SMA_Crossover BEARISH 3021.50         1
@@ -46,10 +71,3 @@ LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH  999.99         1
  WAAREERTL  2026-11-06 SMA_Crossover BEARISH  733.35         1
 ASIANPAINT  2026-11-04 SMA_Crossover BEARISH 2418.30         1
 LIQUIDBEES  2026-11-04 SMA_Crossover BEARISH  999.99         1
- BANKINDIA  2026-11-03 SMA_Crossover BEARISH  133.17         1
-    BIOCON  2026-11-03 SMA_Crossover BEARISH  343.00         1
-     CANBK  2026-11-03 SMA_Crossover BEARISH  117.50         1
-  JUBLFOOD  2026-11-03 SMA_Crossover BEARISH  422.00         1
-  KPITTECH  2026-11-03 SMA_Crossover BEARISH  519.80         1
-NATIONALUM  2026-11-03 SMA_Crossover BEARISH  317.55         1
- POWERGRID  2026-11-03 SMA_Crossover BEARISH  259.55         1
