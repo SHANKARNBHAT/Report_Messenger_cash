@@ -1,42 +1,17 @@
-Generated on: 2026-11-18 10:02:38
+Generated on: 2026-11-19 10:11:26
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
-    symbol  lot_size last_close active
-    APOLLO         1     435.10      -
- DELTACORP         1      81.13      -
-KARURVYSYA         1     343.90      -
-      KMEW         1    3329.90      -
-     KROSS         1     287.05      -
-   SKYGOLD         1     983.40      -
+   symbol  lot_size last_close active
+DELTACORP         1      81.13      -
+     KMEW         1     652.80      -
+ LGEINDIA         1    1793.80 ACTIVE
+  SKYGOLD         1     983.40      -
 
 ## bearish_overlaps
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
-ADANIPORTS  2026-11-04  RSI_Strategy BULLISH         1
-    APOLLO  2026-11-04 SMA_Crossover BULLISH         1
-ASIANPAINT  2026-11-04 SMA_Crossover BEARISH         1
-      BBOX  2026-11-04 SMA_Crossover BULLISH         1
-CASTROLIND  2026-11-04 SMA_Crossover BULLISH         1
-    GESHIP  2026-11-04 SMA_Crossover BULLISH         1
-  GLENMARK  2026-11-04  RSI_Strategy BULLISH         1
-       HAL  2026-11-04  RSI_Strategy BULLISH         1
- HBLENGINE  2026-11-04  RSI_Strategy BULLISH         1
-       ITC  2026-11-04  RSI_Strategy BULLISH         1
-  JSWSTEEL  2026-11-04  RSI_Strategy BULLISH         1
-KARURVYSYA  2026-11-04 SMA_Crossover BULLISH         1
-      KMEW  2026-11-04 SMA_Crossover BULLISH         1
-     KROSS  2026-11-04 SMA_Crossover BULLISH         1
-LALPATHLAB  2026-11-04  RSI_Strategy BULLISH         1
-LIQUIDBEES  2026-11-04 SMA_Crossover BEARISH         1
-    NAZARA  2026-11-04  RSI_Strategy BULLISH         1
-PCJEWELLER  2026-11-04 SMA_Crossover BULLISH         1
-  PETRONET  2026-11-04  RSI_Strategy BULLISH         1
-  SHREECEM  2026-11-04  RSI_Strategy BULLISH         1
- SOUTHBANK  2026-11-04  RSI_Strategy BULLISH         1
-     TARIL  2026-11-04 SMA_Crossover BULLISH         1
-     TRENT  2026-11-04  RSI_Strategy BULLISH         1
     AUBANK  2026-11-06 SMA_Crossover BEARISH         1
   AXISBANK  2026-11-06  RSI_Strategy BULLISH         1
  BRITANNIA  2026-11-06 SMA_Crossover BEARISH         1
@@ -202,3 +177,37 @@ POONAWALLA  2026-11-18  RSI_Strategy BULLISH         1
       VEDL  2026-11-18 SMA_Crossover BEARISH         1
        VMM  2026-11-18 SMA_Crossover BEARISH         1
 WAAREEENER  2026-11-18 SMA_Crossover BEARISH         1
+     ALKEM  2026-11-19 SMA_Crossover BEARISH         1
+CHOLAHLDNG  2026-11-19 SMA_Crossover BEARISH         1
+    CPPLUS  2026-11-19 SMA_Crossover BULLISH         1
+ CRAFTSMAN  2026-11-19  RSI_Strategy BULLISH         1
+    CYIENT  2026-11-19 SMA_Crossover BULLISH         1
+  DCMSRIND  2026-11-19 SMA_Crossover BULLISH         1
+ DELHIVERY  2026-11-19  RSI_Strategy BULLISH         1
+ EICHERMOT  2026-11-19  RSI_Strategy BULLISH         1
+     GLAND  2026-11-19  RSI_Strategy BULLISH         1
+  GODREJCP  2026-11-19  RSI_Strategy BULLISH         1
+   HAVELLS  2026-11-19  RSI_Strategy BULLISH         1
+HEROMOTOCO  2026-11-19 SMA_Crossover BULLISH         1
+ HINDPETRO  2026-11-19  RSI_Strategy BULLISH         1
+HINDUNILVR  2026-11-19  RSI_Strategy BULLISH         1
+   HYUNDAI  2026-11-19  RSI_Strategy BULLISH         1
+KALYANKJIL  2026-11-19  RSI_Strategy BULLISH         1
+  LGEINDIA  2026-11-19 SMA_Crossover BULLISH         1
+    MARUTI  2026-11-19  RSI_Strategy BULLISH         1
+       MCX  2026-11-19  RSI_Strategy BULLISH         1
+    MOLBIO  2026-11-19  RSI_Strategy BULLISH         1
+ MOTHERSON  2026-11-19 SMA_Crossover BULLISH         1
+MUTHOOTFIN  2026-11-19 SMA_Crossover BEARISH         1
+    NAZARA  2026-11-19  RSI_Strategy BULLISH         1
+  PINELABS  2026-11-19 SMA_Crossover BEARISH         1
+    QPOWER  2026-11-19  RSI_Strategy BULLISH         1
+   SANSERA  2026-11-19  RSI_Strategy BULLISH         1
+       SCI  2026-11-19 SMA_Crossover BEARISH         1
+ SHADOWFAX  2026-11-19  RSI_Strategy BULLISH         1
+ SUNPHARMA  2026-11-19  RSI_Strategy BULLISH         1
+  TVSMOTOR  2026-11-19  RSI_Strategy BULLISH         1
+   URBANCO  2026-11-19  RSI_Strategy BULLISH         1
+       VBL  2026-11-19 SMA_Crossover BEARISH         1
+    VOLTAS  2026-11-19  RSI_Strategy BULLISH         1
+WOCKPHARMA  2026-11-19  RSI_Strategy BULLISH         1
