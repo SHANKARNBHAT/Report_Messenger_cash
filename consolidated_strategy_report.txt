@@ -1,11 +1,11 @@
-Generated on: 2026-11-19 10:11:26
+Generated on: 2026-11-20 19:06:56
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
    symbol  lot_size last_close active
 DELTACORP         1      81.13      -
      KMEW         1     652.80      -
- LGEINDIA         1    1793.80 ACTIVE
+ LGEINDIA         1    1793.80      -
   SKYGOLD         1     983.40      -
 
 ## bearish_overlaps
