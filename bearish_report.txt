@@ -1,7 +1,15 @@
-Generated on: 2026-11-20 19:06:56
+Generated on: 2026-11-23 22:39:55
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+      GRSE  2026-11-20 SMA_Crossover BEARISH 2061.70         1
+HINDCOPPER  2026-11-20 SMA_Crossover BEARISH  419.05         1
+      IFCI  2026-11-20 SMA_Crossover BEARISH   59.82         1
+       LTF  2026-11-20 SMA_Crossover BEARISH  272.10         1
+    NETWEB  2026-11-20 SMA_Crossover BEARISH 4095.50         1
+      RVNL  2026-11-20 SMA_Crossover BEARISH  191.00         1
+SAMMAANCAP  2026-11-20 SMA_Crossover BEARISH  124.93         1
+ TATASTEEL  2026-11-20 SMA_Crossover BEARISH  178.00         1
      ALKEM  2026-11-19 SMA_Crossover BEARISH 5145.00         1
 CHOLAHLDNG  2026-11-19 SMA_Crossover BEARISH 1412.20         1
 MUTHOOTFIN  2026-11-19 SMA_Crossover BEARISH 2618.00         1
@@ -61,17 +69,3 @@ LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH  999.99         1
   JUBLFOOD  2026-11-09 SMA_Crossover BEARISH  428.50         1
    OLAELEC  2026-11-09 SMA_Crossover BEARISH   33.96         1
    STLTECH  2026-11-09  RSI_Strategy BEARISH  670.95         1
-    AUBANK  2026-11-06 SMA_Crossover BEARISH  931.80         1
- BRITANNIA  2026-11-06 SMA_Crossover BEARISH 4785.00         1
-  EXIDEIND  2026-11-06 SMA_Crossover BEARISH  357.35         1
-  GODREJCP  2026-11-06 SMA_Crossover BEARISH  851.00         1
-  GOLDBEES  2026-11-06 SMA_Crossover BEARISH  116.20         1
-     GVT&D  2026-11-06 SMA_Crossover BEARISH 4018.00         1
-  ICICIAMC  2026-11-06 SMA_Crossover BEARISH 2935.80         1
-    KAYNES  2026-11-06 SMA_Crossover BEARISH 3233.00         1
-      LICI  2026-11-06 SMA_Crossover BEARISH  394.00         1
-       SRF  2026-11-06 SMA_Crossover BEARISH 2460.40         1
-  TATACHEM  2026-11-06 SMA_Crossover BEARISH  607.45         1
-  TATAGOLD  2026-11-06 SMA_Crossover BEARISH   13.68         1
- TATAPOWER  2026-11-06 SMA_Crossover BEARISH  352.50         1
- WAAREERTL  2026-11-06 SMA_Crossover BEARISH  733.35         1

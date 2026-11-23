@@ -1,3 +1,5 @@
-Generated on: 2026-11-20 19:06:56
+Generated on: 2026-11-23 22:39:55
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
+    symbol      strategy    bias last_trigger  lot_size rvol atr14 daily_range   close
+LIQUIDBEES SMA_Crossover BULLISH   2026-11-23         1 1.25  1.18        4.81 1000.00

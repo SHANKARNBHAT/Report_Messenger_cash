@@ -1,5 +1,10 @@
-Generated on: 2026-11-20 19:06:56
+Generated on: 2026-11-23 22:39:55
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
-  symbol rvol  close daily_range atr_14  is_active   trend  action
-GOLDIETF 4.98 105.10        3.49   2.66          1 Bearish 2.Short
+    symbol rvol   close daily_range atr_14  is_active   trend action
+LIQUIDBEES 1.25 1000.00        4.81   1.18          0 Bullish 1.Long
+LIQUIDIETF 1.08  999.99       25.02   2.08          0 Bullish 1.Long
+  GOLDIETF 3.20  106.69        1.56   2.64          1 Bearish 4.Wait
+LIQUIDBETF 1.99 1109.35        2.10   2.99          1 Bullish 4.Wait
+   LIQUID1 1.80 1133.52        1.69   5.01          1 Bullish 4.Wait
+LIQUIDCASE 1.04  117.06        0.02   0.20          0 Bullish 4.Wait
