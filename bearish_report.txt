@@ -1,7 +1,26 @@
-Generated on: 2026-11-23 22:39:55
+Generated on: 2026-11-24 10:26:28
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias   close  lot_size
+     ALKEM  2026-11-23 SMA_Crossover BEARISH 5067.00         1
+ APLAPOLLO  2026-11-23  RSI_Strategy BEARISH 1670.00         1
+       BDL  2026-11-23 SMA_Crossover BEARISH 1020.00         1
+BHARATFORG  2026-11-23 SMA_Crossover BEARISH 1722.00         1
+    BIOCON  2026-11-23 SMA_Crossover BEARISH  356.70         1
+CHOLAHLDNG  2026-11-23 SMA_Crossover BEARISH 1357.10         1
+    CONCOR  2026-11-23 SMA_Crossover BEARISH  427.25         1
+    ELECON  2026-11-23 SMA_Crossover BEARISH  438.50         1
+  HINDALCO  2026-11-23 SMA_Crossover BEARISH  900.45         1
+      IDBI  2026-11-23 SMA_Crossover BEARISH   78.44         1
+  LALITHAA  2026-11-23  RSI_Strategy BEARISH  309.35         1
+     LUPIN  2026-11-23 SMA_Crossover BEARISH 1975.60         1
+   MAZDOCK  2026-11-23 SMA_Crossover BEARISH 1801.00         1
+ NTPCGREEN  2026-11-23 SMA_Crossover BEARISH   82.30         1
+       PFC  2026-11-23 SMA_Crossover BEARISH  324.25         1
+PIRAMALFIN  2026-11-23 SMA_Crossover BEARISH 1970.20         1
+    RECLTD  2026-11-23 SMA_Crossover BEARISH  292.95         1
+     SENCO  2026-11-23 SMA_Crossover BEARISH  312.70         1
+WAAREEENER  2026-11-23 SMA_Crossover BEARISH 2390.00         1
       GRSE  2026-11-20 SMA_Crossover BEARISH 2061.70         1
 HINDCOPPER  2026-11-20 SMA_Crossover BEARISH  419.05         1
       IFCI  2026-11-20 SMA_Crossover BEARISH   59.82         1
@@ -64,8 +83,3 @@ SHANTIGOLD  2026-11-13  RSI_Strategy BEARISH  262.95         1
       TMPV  2026-11-13 SMA_Crossover BEARISH  287.40         1
       GRSE  2026-11-12 SMA_Crossover BEARISH 2211.50         1
 LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH  999.99         1
-     AMBER  2026-11-09 SMA_Crossover BEARISH 6230.00         1
-     EBGNG  2026-11-09  RSI_Strategy BEARISH  551.20         1
-  JUBLFOOD  2026-11-09 SMA_Crossover BEARISH  428.50         1
-   OLAELEC  2026-11-09 SMA_Crossover BEARISH   33.96         1
-   STLTECH  2026-11-09  RSI_Strategy BEARISH  670.95         1

@@ -1,8 +1,19 @@
-Generated on: 2026-11-23 22:39:55
+Generated on: 2026-11-24 10:26:28
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+AARTIPHARM  2026-11-23  RSI_Strategy BULLISH  1020.65         1
+KARURVYSYA  2026-11-23  RSI_Strategy BULLISH   384.10         1
+LALPATHLAB  2026-11-23  RSI_Strategy BULLISH  2040.50         1
+LAURUSLABS  2026-11-23  RSI_Strategy BULLISH  2370.70         1
 LIQUIDBEES  2026-11-23 SMA_Crossover BULLISH  1000.00         1
+      LTTS  2026-11-23 SMA_Crossover BULLISH  4222.60         1
+      LTTS  2026-11-23  RSI_Strategy BULLISH  4222.60         1
+     TANLA  2026-11-23  RSI_Strategy BULLISH   680.50         1
+       TCS  2026-11-23 SMA_Crossover BULLISH  2460.00         1
+TECHNOCRAF  2026-11-23  RSI_Strategy BULLISH   519.10         1
+     TITAN  2026-11-23 SMA_Crossover BULLISH  4680.00         1
+  UNITDSPR  2026-11-23  RSI_Strategy BULLISH  1478.00         1
 APOLLOHOSP  2026-11-20  RSI_Strategy BULLISH  9200.00         1
    ASTERDM  2026-11-20  RSI_Strategy BULLISH   779.30         1
 BAJAJFINSV  2026-11-20  RSI_Strategy BULLISH  1892.00         1
@@ -122,20 +133,3 @@ LALPATHLAB  2026-11-11  RSI_Strategy BULLISH  2028.70         1
    RKFORGE  2026-11-11  RSI_Strategy BULLISH   764.70         1
    SKYGOLD  2026-11-11 SMA_Crossover BULLISH   983.40         1
      TARIL  2026-11-11 SMA_Crossover BULLISH   316.25         1
- BANKINDIA  2026-11-09  RSI_Strategy BULLISH   145.00         1
- DELTACORP  2026-11-09 SMA_Crossover BULLISH    81.13         1
-   INDOMIM  2026-11-09  RSI_Strategy BULLISH  1274.40         1
-      IRFC  2026-11-09  RSI_Strategy BULLISH    83.50         1
-KALYANKJIL  2026-11-09  RSI_Strategy BULLISH   611.00         1
-  LGEINDIA  2026-11-09  RSI_Strategy BULLISH  1793.80         1
-  MAHABANK  2026-11-09  RSI_Strategy BULLISH    87.68         1
-   MANKIND  2026-11-09  RSI_Strategy BULLISH  2668.30         1
-       MCX  2026-11-09  RSI_Strategy BULLISH  3545.00         1
-    NEOGEN  2026-11-09  RSI_Strategy BULLISH  2665.20         1
-     NYKAA  2026-11-09  RSI_Strategy BULLISH   359.70         1
-     PTCIL  2026-11-09 SMA_Crossover BULLISH 24745.00         1
-   RUBICON  2026-11-09  RSI_Strategy BULLISH  1771.70         1
-   SANSERA  2026-11-09  RSI_Strategy BULLISH  4653.40         1
-      SBIN  2026-11-09  RSI_Strategy BULLISH  1042.00         1
- UNIONBANK  2026-11-09  RSI_Strategy BULLISH   197.00         1
-WELSPUNLIV  2026-11-09  RSI_Strategy BULLISH   252.21         1

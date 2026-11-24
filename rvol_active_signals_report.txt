@@ -1,5 +1,67 @@
-Generated on: 2026-11-23 22:39:55
+Generated on: 2026-11-24 10:26:28
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
-    symbol      strategy    bias last_trigger  lot_size rvol atr14 daily_range   close
-LIQUIDBEES SMA_Crossover BULLISH   2026-11-23         1 1.25  1.18        4.81 1000.00
+    symbol      strategy    bias last_trigger  lot_size  rvol  atr14 daily_range    close
+AARTIPHARM  RSI_Strategy BULLISH   2026-11-23         1  1.10  43.49       60.85  1020.65
+ADANIENSOL  RSI_Strategy BULLISH   2026-11-17         1  1.99  44.74       56.40  1470.00
+ APLAPOLLO  RSI_Strategy BEARISH   2026-11-23         1 11.86  86.63      356.40  1670.00
+APOLLOHOSP  RSI_Strategy BULLISH   2026-11-20         1  1.34 211.68      170.00  9257.00
+   ASTERDM  RSI_Strategy BULLISH   2026-11-20         1  1.64  27.58       18.70   790.35
+    AUBANK SMA_Crossover BEARISH   2026-11-18         1  1.55  29.50       33.05   983.50
+ BRITANNIA SMA_Crossover BEARISH   2026-11-17         1  1.01 134.41      103.80  4830.70
+     CANBK  RSI_Strategy BULLISH   2026-11-11         1  1.22   3.91        6.69   133.75
+COCHINSHIP SMA_Crossover BEARISH   2026-11-13         1  1.22  40.98       51.20  1090.00
+   COFORGE  RSI_Strategy BULLISH   2026-11-20         1  1.49  67.30       49.90  2142.30
+ CRAFTSMAN  RSI_Strategy BULLISH   2026-11-19         1  1.06 433.93      554.00 11649.00
+ CREDITACC SMA_Crossover BEARISH   2026-11-18         1  1.63  42.51       21.10   983.80
+ EICHERMOT  RSI_Strategy BULLISH   2026-11-19         1  1.28 235.89      149.00  8172.50
+FEDERALBNK  RSI_Strategy BULLISH   2026-11-11         1  2.21   9.37       16.60   359.80
+       FSL SMA_Crossover BULLISH   2026-11-20         1  1.10  10.06       11.85   283.60
+HEROMOTOCO SMA_Crossover BULLISH   2026-11-19         1  1.14 134.54      117.50  5535.00
+  HINDALCO SMA_Crossover BEARISH   2026-11-23         1  1.64  29.54       22.25   900.45
+  HINDZINC SMA_Crossover BEARISH   2026-11-18         1  1.18  18.28       13.60   528.95
+   HYUNDAI  RSI_Strategy BULLISH   2026-11-19         1  1.43  65.25       97.90  2155.00
+  ICICIAMC SMA_Crossover BEARISH   2026-11-18         1  1.24  78.66       51.40  2933.00
+   ICICIGI  RSI_Strategy BULLISH   2026-11-20         1  1.73  40.99       32.00  1742.60
+      IDEA SMA_Crossover BEARISH   2026-11-18         1  1.02   0.35        0.32    11.91
+     IREDA  RSI_Strategy BULLISH   2026-11-17         1  1.14   5.53        5.53   132.20
+       ITC  RSI_Strategy BULLISH   2026-11-11         1  1.20   7.16        5.00   301.00
+JINDALSTEL  RSI_Strategy BULLISH   2026-11-11         1  1.27  30.02       29.30  1131.30
+KALYANKJIL  RSI_Strategy BULLISH   2026-11-19         1  1.23  37.41       30.80   652.90
+KARURVYSYA  RSI_Strategy BULLISH   2026-11-23         1  1.53  13.45       17.50   384.10
+       KEI SMA_Crossover BEARISH   2026-11-17         1  1.09 139.31       79.20  3800.60
+   KTKBANK  RSI_Strategy BULLISH   2026-11-11         1  1.24  13.37       12.90   341.25
+LALPATHLAB  RSI_Strategy BULLISH   2026-11-23         1  1.79  71.34       68.00  2040.50
+  LGEINDIA SMA_Crossover BULLISH   2026-11-19         1  2.47  61.96       69.50  1777.50
+ LICHSGFIN  RSI_Strategy BULLISH   2026-11-11         1  1.18  19.32       17.60   606.00
+LIQUIDBEES SMA_Crossover BULLISH   2026-11-23         1  1.25   1.18        4.81  1000.00
+       LTF SMA_Crossover BEARISH   2026-11-20         1  1.15   9.10        7.16   274.00
+      LTTS SMA_Crossover BULLISH   2026-11-23         1  1.09 116.26      145.90  4222.60
+     LUPIN SMA_Crossover BEARISH   2026-11-23         1  1.19  41.76       44.00  1975.60
+MANAPPURAM SMA_Crossover BEARISH   2026-11-13         1  1.94  12.29       15.70   271.00
+    MARUTI  RSI_Strategy BULLISH   2026-11-19         1  1.71 389.71      344.00 14010.00
+    MEESHO  RSI_Strategy BULLISH   2026-11-11         1  1.24   8.59       13.00   253.11
+   MPHASIS SMA_Crossover BULLISH   2026-11-20         1  1.01  91.54       64.80  2468.40
+MUTHOOTFIN SMA_Crossover BEARISH   2026-11-19         1  1.15 103.62       56.00  2543.30
+NATIONALUM SMA_Crossover BEARISH   2026-11-18         1  1.75  11.14        9.25   298.65
+    NEOGEN  RSI_Strategy BULLISH   2026-11-17         1  1.27 151.67      155.10  2787.70
+      NMDC SMA_Crossover BEARISH   2026-11-18         1  1.46   1.73        2.30    67.40
+PERSISTENT SMA_Crossover BULLISH   2026-11-20         1  2.09 157.71      203.50  6282.50
+       PFC SMA_Crossover BEARISH   2026-11-23         1  1.20   8.35        9.45   324.25
+PIDILITIND  RSI_Strategy BULLISH   2026-11-20         1  1.73  39.34       37.00  1594.20
+   POLYCAB SMA_Crossover BEARISH   2026-11-17         1  1.25 240.18      166.00  7430.00
+  PRESTIGE  RSI_Strategy BULLISH   2026-11-20         1  2.99  57.61       35.50  1687.00
+     PTCIL SMA_Crossover BULLISH   2026-11-20         1  1.60 821.79      715.00 24425.00
+    QPOWER  RSI_Strategy BULLISH   2026-11-19         1  1.97  80.51      157.60  1468.50
+ RATNAVEER  RSI_Strategy BULLISH   2026-11-20         1  2.94  15.70       39.40   403.30
+      RVNL SMA_Crossover BEARISH   2026-11-20         1  1.32   8.18       10.85   185.10
+SHANTIGOLD  RSI_Strategy BEARISH   2026-11-13         1  1.00  17.35       24.20   212.75
+   SKYGOLD  RSI_Strategy BULLISH   2026-11-12         1  1.02  59.14       54.95   819.45
+       SRF SMA_Crossover BEARISH   2026-11-18         1  1.20  50.26       49.90  2514.80
+ TATASTEEL SMA_Crossover BEARISH   2026-11-20         1  5.39   5.97       13.30   163.00
+       TCS SMA_Crossover BULLISH   2026-11-23         1  2.10  67.30      100.90  2460.00
+  UNITDSPR  RSI_Strategy BULLISH   2026-11-23         1  1.10  35.76       33.60  1478.00
+   URBANCO  RSI_Strategy BULLISH   2026-11-19         1  1.03   7.42        6.58   168.68
+      VEDL SMA_Crossover BEARISH   2026-11-18         1  1.04   7.37        5.71   235.53
+       VMM SMA_Crossover BEARISH   2026-11-18         1  2.04   2.80        3.62    94.50
+WELSPUNLIV  RSI_Strategy BULLISH   2026-11-20         1  1.01  14.57       16.99   270.76
