@@ -1,13 +1,18 @@
-Generated on: 2026-11-24 10:26:28
+Generated on: 2026-11-25 11:10:52
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
+HEROMOTOCO         1    5556.00 ACTIVE
 LAURUSLABS         1    2338.00      -
+  LGEINDIA         1    1716.20 ACTIVE
       LTTS         1    4222.60      -
      PAYTM         1    1925.00      -
-PERSISTENT         1    6124.00 ACTIVE
+PERSISTENT         1    6124.00      -
    SKYGOLD         1     983.40      -
+       TCS         1    2460.00      -
+     TECHM         1    1801.20      -
+ ZYDUSLIFE         1    1236.00      -
 
 ## bearish_overlaps
 
@@ -225,3 +230,40 @@ TECHNOCRAF  2026-11-23  RSI_Strategy BULLISH         1
      TITAN  2026-11-23 SMA_Crossover BULLISH         1
   UNITDSPR  2026-11-23  RSI_Strategy BULLISH         1
 WAAREEENER  2026-11-23 SMA_Crossover BEARISH         1
+   ACUTAAS  2026-11-25  RSI_Strategy BULLISH         1
+  ANGELONE  2026-11-25  RSI_Strategy BULLISH         1
+ASIANPAINT  2026-11-25  RSI_Strategy BULLISH         1
+BAJAJ-AUTO  2026-11-25 SMA_Crossover BULLISH         1
+BAJAJFINSV  2026-11-25  RSI_Strategy BULLISH         1
+BAJFINANCE  2026-11-25  RSI_Strategy BULLISH         1
+   BELRISE  2026-11-25  RSI_Strategy BULLISH         1
+     CIPLA  2026-11-25  RSI_Strategy BULLISH         1
+     CUPID  2026-11-25  RSI_Strategy BULLISH         1
+      GAIL  2026-11-25  RSI_Strategy BULLISH         1
+  GODREJCP  2026-11-25  RSI_Strategy BULLISH         1
+     GVT&D  2026-11-25 SMA_Crossover BEARISH         1
+       HAL  2026-11-25 SMA_Crossover BULLISH         1
+  HDFCLIFE  2026-11-25  RSI_Strategy BULLISH         1
+HEROMOTOCO  2026-11-25  RSI_Strategy BULLISH         1
+HINDUNILVR  2026-11-25  RSI_Strategy BULLISH         1
+      HSCL  2026-11-25 SMA_Crossover BEARISH         1
+       IOC  2026-11-25  RSI_Strategy BULLISH         1
+    ITBEES  2026-11-25 SMA_Crossover BULLISH         1
+     IXIGO  2026-11-25  RSI_Strategy BULLISH         1
+  JSWINFRA  2026-11-25  RSI_Strategy BULLISH         1
+  LGEINDIA  2026-11-25  RSI_Strategy BULLISH         1
+        LT  2026-11-25  RSI_Strategy BULLISH         1
+   MANKIND  2026-11-25  RSI_Strategy BULLISH         1
+   MPHASIS  2026-11-25 SMA_Crossover BULLISH         1
+    NUVAMA  2026-11-25 SMA_Crossover BULLISH         1
+POWERINDIA  2026-11-25 SMA_Crossover BEARISH         1
+       SCI  2026-11-25 SMA_Crossover BEARISH         1
+ SHADOWFAX  2026-11-25  RSI_Strategy BULLISH         1
+ SHYAMMETL  2026-11-25  RSI_Strategy BULLISH         1
+       TCS  2026-11-25  RSI_Strategy BULLISH         1
+     TECHM  2026-11-25 SMA_Crossover BULLISH         1
+     TECHM  2026-11-25  RSI_Strategy BULLISH         1
+    VIYASH  2026-11-25 SMA_Crossover BEARISH         1
+      ZEEL  2026-11-25 SMA_Crossover BEARISH         1
+ ZYDUSLIFE  2026-11-25 SMA_Crossover BULLISH         1
+ ZYDUSLIFE  2026-11-25  RSI_Strategy BULLISH         1

@@ -1,85 +1,91 @@
-Generated on: 2026-11-24 10:26:28
+Generated on: 2026-11-25 11:10:52
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
-    symbol signal_date strategy_type    bias   close  lot_size
-     ALKEM  2026-11-23 SMA_Crossover BEARISH 5067.00         1
- APLAPOLLO  2026-11-23  RSI_Strategy BEARISH 1670.00         1
-       BDL  2026-11-23 SMA_Crossover BEARISH 1020.00         1
-BHARATFORG  2026-11-23 SMA_Crossover BEARISH 1722.00         1
-    BIOCON  2026-11-23 SMA_Crossover BEARISH  356.70         1
-CHOLAHLDNG  2026-11-23 SMA_Crossover BEARISH 1357.10         1
-    CONCOR  2026-11-23 SMA_Crossover BEARISH  427.25         1
-    ELECON  2026-11-23 SMA_Crossover BEARISH  438.50         1
-  HINDALCO  2026-11-23 SMA_Crossover BEARISH  900.45         1
-      IDBI  2026-11-23 SMA_Crossover BEARISH   78.44         1
-  LALITHAA  2026-11-23  RSI_Strategy BEARISH  309.35         1
-     LUPIN  2026-11-23 SMA_Crossover BEARISH 1975.60         1
-   MAZDOCK  2026-11-23 SMA_Crossover BEARISH 1801.00         1
- NTPCGREEN  2026-11-23 SMA_Crossover BEARISH   82.30         1
-       PFC  2026-11-23 SMA_Crossover BEARISH  324.25         1
-PIRAMALFIN  2026-11-23 SMA_Crossover BEARISH 1970.20         1
-    RECLTD  2026-11-23 SMA_Crossover BEARISH  292.95         1
-     SENCO  2026-11-23 SMA_Crossover BEARISH  312.70         1
-WAAREEENER  2026-11-23 SMA_Crossover BEARISH 2390.00         1
-      GRSE  2026-11-20 SMA_Crossover BEARISH 2061.70         1
-HINDCOPPER  2026-11-20 SMA_Crossover BEARISH  419.05         1
-      IFCI  2026-11-20 SMA_Crossover BEARISH   59.82         1
-       LTF  2026-11-20 SMA_Crossover BEARISH  272.10         1
-    NETWEB  2026-11-20 SMA_Crossover BEARISH 4095.50         1
-      RVNL  2026-11-20 SMA_Crossover BEARISH  191.00         1
-SAMMAANCAP  2026-11-20 SMA_Crossover BEARISH  124.93         1
- TATASTEEL  2026-11-20 SMA_Crossover BEARISH  178.00         1
-     ALKEM  2026-11-19 SMA_Crossover BEARISH 5145.00         1
-CHOLAHLDNG  2026-11-19 SMA_Crossover BEARISH 1412.20         1
-MUTHOOTFIN  2026-11-19 SMA_Crossover BEARISH 2618.00         1
-  PINELABS  2026-11-19 SMA_Crossover BEARISH  161.24         1
-       SCI  2026-11-19 SMA_Crossover BEARISH  249.30         1
-       VBL  2026-11-19 SMA_Crossover BEARISH  420.50         1
-    AUBANK  2026-11-18 SMA_Crossover BEARISH  977.00         1
- CREDITACC  2026-11-18 SMA_Crossover BEARISH 1046.20         1
-  HINDALCO  2026-11-18 SMA_Crossover BEARISH  900.00         1
-HINDCOPPER  2026-11-18 SMA_Crossover BEARISH  419.20         1
-  HINDZINC  2026-11-18 SMA_Crossover BEARISH  527.00         1
-  ICICIAMC  2026-11-18 SMA_Crossover BEARISH 2949.10         1
-      IDBI  2026-11-18 SMA_Crossover BEARISH   78.82         1
-      IDEA  2026-11-18 SMA_Crossover BEARISH   12.10         1
-      IFCI  2026-11-18 SMA_Crossover BEARISH   59.73         1
-   JPPOWER  2026-11-18 SMA_Crossover BEARISH   13.31         1
-  JUBLFOOD  2026-11-18 SMA_Crossover BEARISH  420.95         1
-       LTF  2026-11-18 SMA_Crossover BEARISH  273.90         1
-   MAZDOCK  2026-11-18 SMA_Crossover BEARISH 1822.40         1
-MUTHOOTFIN  2026-11-18 SMA_Crossover BEARISH 2640.00         1
-NATIONALUM  2026-11-18 SMA_Crossover BEARISH  308.10         1
-      NMDC  2026-11-18 SMA_Crossover BEARISH   68.24         1
-  PINELABS  2026-11-18 SMA_Crossover BEARISH  169.35         1
-    RECLTD  2026-11-18 SMA_Crossover BEARISH  290.65         1
-      RVNL  2026-11-18 SMA_Crossover BEARISH  189.00         1
-      SAIL  2026-11-18 SMA_Crossover BEARISH  164.00         1
-       SRF  2026-11-18 SMA_Crossover BEARISH 2445.00         1
- TATASTEEL  2026-11-18 SMA_Crossover BEARISH  179.00         1
-      VEDL  2026-11-18 SMA_Crossover BEARISH  245.40         1
-       VMM  2026-11-18 SMA_Crossover BEARISH   90.23         1
-WAAREEENER  2026-11-18 SMA_Crossover BEARISH 2392.00         1
- BRITANNIA  2026-11-17 SMA_Crossover BEARISH 4700.00         1
- COALINDIA  2026-11-17 SMA_Crossover BEARISH  391.55         1
-     ENRIN  2026-11-17 SMA_Crossover BEARISH 3021.50         1
-GENUSPOWER  2026-11-17 SMA_Crossover BEARISH  276.85         1
-       KEI  2026-11-17 SMA_Crossover BEARISH 3851.00         1
-   POLYCAB  2026-11-17 SMA_Crossover BEARISH 7702.00         1
-SAMMAANCAP  2026-11-17 SMA_Crossover BEARISH  131.29         1
-     ALKEM  2026-11-13 SMA_Crossover BEARISH 5114.00         1
-       BDL  2026-11-13 SMA_Crossover BEARISH 1030.00         1
-   BELRISE  2026-11-13 SMA_Crossover BEARISH  215.20         1
-    BIOCON  2026-11-13 SMA_Crossover BEARISH  364.05         1
-COCHINSHIP  2026-11-13 SMA_Crossover BEARISH 1175.00         1
-  CROMPTON  2026-11-13 SMA_Crossover BEARISH  211.38         1
-  HINDALCO  2026-11-13 SMA_Crossover BEARISH  943.60         1
-  HINDZINC  2026-11-13 SMA_Crossover BEARISH  554.85         1
-     LUPIN  2026-11-13 SMA_Crossover BEARISH 1980.30         1
-MANAPPURAM  2026-11-13 SMA_Crossover BEARISH  308.00         1
-       PFC  2026-11-13 SMA_Crossover BEARISH  334.25         1
-SHANTIGOLD  2026-11-13  RSI_Strategy BEARISH  262.95         1
- TATAPOWER  2026-11-13 SMA_Crossover BEARISH  348.00         1
-      TMPV  2026-11-13 SMA_Crossover BEARISH  287.40         1
-      GRSE  2026-11-12 SMA_Crossover BEARISH 2211.50         1
-LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH  999.99         1
+    symbol signal_date strategy_type    bias    close  lot_size
+     GVT&D  2026-11-25 SMA_Crossover BEARISH  4070.00         1
+      HSCL  2026-11-25 SMA_Crossover BEARISH   543.20         1
+POWERINDIA  2026-11-25 SMA_Crossover BEARISH 29770.00         1
+       SCI  2026-11-25 SMA_Crossover BEARISH   253.77         1
+    VIYASH  2026-11-25 SMA_Crossover BEARISH   228.88         1
+      ZEEL  2026-11-25 SMA_Crossover BEARISH    67.21         1
+     ALKEM  2026-11-23 SMA_Crossover BEARISH  5067.00         1
+ APLAPOLLO  2026-11-23  RSI_Strategy BEARISH  1670.00         1
+       BDL  2026-11-23 SMA_Crossover BEARISH  1020.00         1
+BHARATFORG  2026-11-23 SMA_Crossover BEARISH  1722.00         1
+    BIOCON  2026-11-23 SMA_Crossover BEARISH   356.70         1
+CHOLAHLDNG  2026-11-23 SMA_Crossover BEARISH  1357.10         1
+    CONCOR  2026-11-23 SMA_Crossover BEARISH   427.25         1
+    ELECON  2026-11-23 SMA_Crossover BEARISH   438.50         1
+  HINDALCO  2026-11-23 SMA_Crossover BEARISH   900.45         1
+      IDBI  2026-11-23 SMA_Crossover BEARISH    78.44         1
+  LALITHAA  2026-11-23  RSI_Strategy BEARISH   309.35         1
+     LUPIN  2026-11-23 SMA_Crossover BEARISH  1975.60         1
+   MAZDOCK  2026-11-23 SMA_Crossover BEARISH  1801.00         1
+ NTPCGREEN  2026-11-23 SMA_Crossover BEARISH    82.30         1
+       PFC  2026-11-23 SMA_Crossover BEARISH   324.25         1
+PIRAMALFIN  2026-11-23 SMA_Crossover BEARISH  1970.20         1
+    RECLTD  2026-11-23 SMA_Crossover BEARISH   292.95         1
+     SENCO  2026-11-23 SMA_Crossover BEARISH   312.70         1
+WAAREEENER  2026-11-23 SMA_Crossover BEARISH  2390.00         1
+      GRSE  2026-11-20 SMA_Crossover BEARISH  2061.70         1
+HINDCOPPER  2026-11-20 SMA_Crossover BEARISH   419.05         1
+      IFCI  2026-11-20 SMA_Crossover BEARISH    59.82         1
+       LTF  2026-11-20 SMA_Crossover BEARISH   272.10         1
+    NETWEB  2026-11-20 SMA_Crossover BEARISH  4095.50         1
+      RVNL  2026-11-20 SMA_Crossover BEARISH   191.00         1
+SAMMAANCAP  2026-11-20 SMA_Crossover BEARISH   124.93         1
+ TATASTEEL  2026-11-20 SMA_Crossover BEARISH   178.00         1
+     ALKEM  2026-11-19 SMA_Crossover BEARISH  5145.00         1
+CHOLAHLDNG  2026-11-19 SMA_Crossover BEARISH  1412.20         1
+MUTHOOTFIN  2026-11-19 SMA_Crossover BEARISH  2618.00         1
+  PINELABS  2026-11-19 SMA_Crossover BEARISH   161.24         1
+       SCI  2026-11-19 SMA_Crossover BEARISH   249.30         1
+       VBL  2026-11-19 SMA_Crossover BEARISH   420.50         1
+    AUBANK  2026-11-18 SMA_Crossover BEARISH   977.00         1
+ CREDITACC  2026-11-18 SMA_Crossover BEARISH  1046.20         1
+  HINDALCO  2026-11-18 SMA_Crossover BEARISH   900.00         1
+HINDCOPPER  2026-11-18 SMA_Crossover BEARISH   419.20         1
+  HINDZINC  2026-11-18 SMA_Crossover BEARISH   527.00         1
+  ICICIAMC  2026-11-18 SMA_Crossover BEARISH  2949.10         1
+      IDBI  2026-11-18 SMA_Crossover BEARISH    78.82         1
+      IDEA  2026-11-18 SMA_Crossover BEARISH    12.10         1
+      IFCI  2026-11-18 SMA_Crossover BEARISH    59.73         1
+   JPPOWER  2026-11-18 SMA_Crossover BEARISH    13.31         1
+  JUBLFOOD  2026-11-18 SMA_Crossover BEARISH   420.95         1
+       LTF  2026-11-18 SMA_Crossover BEARISH   273.90         1
+   MAZDOCK  2026-11-18 SMA_Crossover BEARISH  1822.40         1
+MUTHOOTFIN  2026-11-18 SMA_Crossover BEARISH  2640.00         1
+NATIONALUM  2026-11-18 SMA_Crossover BEARISH   308.10         1
+      NMDC  2026-11-18 SMA_Crossover BEARISH    68.24         1
+  PINELABS  2026-11-18 SMA_Crossover BEARISH   169.35         1
+    RECLTD  2026-11-18 SMA_Crossover BEARISH   290.65         1
+      RVNL  2026-11-18 SMA_Crossover BEARISH   189.00         1
+      SAIL  2026-11-18 SMA_Crossover BEARISH   164.00         1
+       SRF  2026-11-18 SMA_Crossover BEARISH  2445.00         1
+ TATASTEEL  2026-11-18 SMA_Crossover BEARISH   179.00         1
+      VEDL  2026-11-18 SMA_Crossover BEARISH   245.40         1
+       VMM  2026-11-18 SMA_Crossover BEARISH    90.23         1
+WAAREEENER  2026-11-18 SMA_Crossover BEARISH  2392.00         1
+ BRITANNIA  2026-11-17 SMA_Crossover BEARISH  4700.00         1
+ COALINDIA  2026-11-17 SMA_Crossover BEARISH   391.55         1
+     ENRIN  2026-11-17 SMA_Crossover BEARISH  3021.50         1
+GENUSPOWER  2026-11-17 SMA_Crossover BEARISH   276.85         1
+       KEI  2026-11-17 SMA_Crossover BEARISH  3851.00         1
+   POLYCAB  2026-11-17 SMA_Crossover BEARISH  7702.00         1
+SAMMAANCAP  2026-11-17 SMA_Crossover BEARISH   131.29         1
+     ALKEM  2026-11-13 SMA_Crossover BEARISH  5114.00         1
+       BDL  2026-11-13 SMA_Crossover BEARISH  1030.00         1
+   BELRISE  2026-11-13 SMA_Crossover BEARISH   215.20         1
+    BIOCON  2026-11-13 SMA_Crossover BEARISH   364.05         1
+COCHINSHIP  2026-11-13 SMA_Crossover BEARISH  1175.00         1
+  CROMPTON  2026-11-13 SMA_Crossover BEARISH   211.38         1
+  HINDALCO  2026-11-13 SMA_Crossover BEARISH   943.60         1
+  HINDZINC  2026-11-13 SMA_Crossover BEARISH   554.85         1
+     LUPIN  2026-11-13 SMA_Crossover BEARISH  1980.30         1
+MANAPPURAM  2026-11-13 SMA_Crossover BEARISH   308.00         1
+       PFC  2026-11-13 SMA_Crossover BEARISH   334.25         1
+SHANTIGOLD  2026-11-13  RSI_Strategy BEARISH   262.95         1
+ TATAPOWER  2026-11-13 SMA_Crossover BEARISH   348.00         1
+      TMPV  2026-11-13 SMA_Crossover BEARISH   287.40         1
+      GRSE  2026-11-12 SMA_Crossover BEARISH  2211.50         1
+LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH   999.99         1
