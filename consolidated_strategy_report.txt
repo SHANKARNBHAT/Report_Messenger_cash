@@ -1,51 +1,27 @@
-Generated on: 2026-11-25 11:10:52
+Generated on: 2026-11-26 10:46:10
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-HEROMOTOCO         1    5556.00 ACTIVE
+   HCLTECH         1    1468.60 ACTIVE
+HEROMOTOCO         1    5556.00      -
+      INFY         1    1183.00 ACTIVE
+    ITBEES         1      35.75 ACTIVE
 LAURUSLABS         1    2338.00      -
   LGEINDIA         1    1716.20 ACTIVE
       LTTS         1    4222.60      -
      PAYTM         1    1925.00      -
 PERSISTENT         1    6124.00      -
-   SKYGOLD         1     983.40      -
-       TCS         1    2460.00      -
+       TCS         1    2460.00 ACTIVE
      TECHM         1    1801.20      -
- ZYDUSLIFE         1    1236.00      -
+     WIPRO         1     196.54 ACTIVE
+ZENSARTECH         1     554.50      -
+ ZYDUSLIFE         1    1236.00 ACTIVE
 
 ## bearish_overlaps
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
-LIQUIDBEES  2026-11-11 SMA_Crossover BEARISH         1
-    360ONE  2026-11-11  RSI_Strategy BULLISH         1
-     ALKEM  2026-11-11  RSI_Strategy BULLISH         1
-      BBOX  2026-11-11 SMA_Crossover BULLISH         1
-  BOSCHLTD  2026-11-11  RSI_Strategy BULLISH         1
-     CANBK  2026-11-11  RSI_Strategy BULLISH         1
-      CDSL  2026-11-11  RSI_Strategy BULLISH         1
-     CIPLA  2026-11-11  RSI_Strategy BULLISH         1
-     CUPID  2026-11-11  RSI_Strategy BULLISH         1
- DELTACORP  2026-11-11  RSI_Strategy BULLISH         1
-ENGINERSIN  2026-11-11  RSI_Strategy BULLISH         1
-FEDERALBNK  2026-11-11  RSI_Strategy BULLISH         1
-GMRAIRPORT  2026-11-11  RSI_Strategy BULLISH         1
-HINDUNILVR  2026-11-11  RSI_Strategy BULLISH         1
- IBULLSLTD  2026-11-11 SMA_Crossover BULLISH         1
-      IIFL  2026-11-11  RSI_Strategy BULLISH         1
-       ITC  2026-11-11  RSI_Strategy BULLISH         1
-JINDALSTEL  2026-11-11  RSI_Strategy BULLISH         1
-  JUSTDIAL  2026-11-11 SMA_Crossover BULLISH         1
-     KROSS  2026-11-11  RSI_Strategy BULLISH         1
-   KTKBANK  2026-11-11  RSI_Strategy BULLISH         1
-LALPATHLAB  2026-11-11  RSI_Strategy BULLISH         1
- LICHSGFIN  2026-11-11  RSI_Strategy BULLISH         1
-    MEESHO  2026-11-11  RSI_Strategy BULLISH         1
-  PRESTIGE  2026-11-11  RSI_Strategy BULLISH         1
-   RKFORGE  2026-11-11  RSI_Strategy BULLISH         1
-   SKYGOLD  2026-11-11 SMA_Crossover BULLISH         1
-     TARIL  2026-11-11 SMA_Crossover BULLISH         1
 AARTIPHARM  2026-11-12  RSI_Strategy BULLISH         1
  ABCAPITAL  2026-11-12  RSI_Strategy BULLISH         1
 ASTRAMICRO  2026-11-12  RSI_Strategy BULLISH         1
@@ -267,3 +243,41 @@ POWERINDIA  2026-11-25 SMA_Crossover BEARISH         1
       ZEEL  2026-11-25 SMA_Crossover BEARISH         1
  ZYDUSLIFE  2026-11-25 SMA_Crossover BULLISH         1
  ZYDUSLIFE  2026-11-25  RSI_Strategy BULLISH         1
+    360ONE  2026-11-26  RSI_Strategy BULLISH         1
+     APTUS  2026-11-26 SMA_Crossover BEARISH         1
+ BRITANNIA  2026-11-26  RSI_Strategy BULLISH         1
+       BSE  2026-11-26  RSI_Strategy BULLISH         1
+      CDSL  2026-11-26  RSI_Strategy BULLISH         1
+    ELECON  2026-11-26 SMA_Crossover BEARISH         1
+   EMUDHRA  2026-11-26 SMA_Crossover BEARISH         1
+  GALLANTT  2026-11-26 SMA_Crossover BEARISH         1
+   HCLTECH  2026-11-26 SMA_Crossover BULLISH         1
+   HCLTECH  2026-11-26  RSI_Strategy BULLISH         1
+      INFY  2026-11-26 SMA_Crossover BULLISH         1
+      INFY  2026-11-26  RSI_Strategy BULLISH         1
+    ITBEES  2026-11-26  RSI_Strategy BULLISH         1
+     KROSS  2026-11-26 SMA_Crossover BULLISH         1
+       LMW  2026-11-26 SMA_Crossover BULLISH         1
+     LODHA  2026-11-26  RSI_Strategy BULLISH         1
+      LTTS  2026-11-26 SMA_Crossover BULLISH         1
+      LTTS  2026-11-26  RSI_Strategy BULLISH         1
+       MCX  2026-11-26  RSI_Strategy BULLISH         1
+      MFSL  2026-11-26  RSI_Strategy BULLISH         1
+    NUVAMA  2026-11-26 SMA_Crossover BULLISH         1
+     PAYTM  2026-11-26 SMA_Crossover BULLISH         1
+PERSISTENT  2026-11-26  RSI_Strategy BULLISH         1
+    RECLTD  2026-11-26 SMA_Crossover BEARISH         1
+   RKFORGE  2026-11-26  RSI_Strategy BULLISH         1
+   RUBICON  2026-11-26  RSI_Strategy BULLISH         1
+   SBILIFE  2026-11-26  RSI_Strategy BULLISH         1
+    SHAILY  2026-11-26  RSI_Strategy BULLISH         1
+ SUNPHARMA  2026-11-26  RSI_Strategy BULLISH         1
+   TIINDIA  2026-11-26 SMA_Crossover BEARISH         1
+TORNTPHARM  2026-11-26  RSI_Strategy BULLISH         1
+UJJIVANSFB  2026-11-26 SMA_Crossover BEARISH         1
+UTTAMSUGAR  2026-11-26 SMA_Crossover BULLISH         1
+     WIPRO  2026-11-26 SMA_Crossover BULLISH         1
+     WIPRO  2026-11-26  RSI_Strategy BULLISH         1
+WOCKPHARMA  2026-11-26  RSI_Strategy BULLISH         1
+ZENSARTECH  2026-11-26 SMA_Crossover BULLISH         1
+ZENSARTECH  2026-11-26  RSI_Strategy BULLISH         1
