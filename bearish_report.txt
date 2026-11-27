@@ -1,7 +1,11 @@
-Generated on: 2026-11-26 10:46:10
+Generated on: 2026-11-27 10:46:43
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol signal_date strategy_type    bias    close  lot_size
+BANDHANBNK  2026-11-27 SMA_Crossover BEARISH   166.66         1
+  CROMPTON  2026-11-27 SMA_Crossover BEARISH   211.00         1
+    RECLTD  2026-11-27 SMA_Crossover BEARISH   295.05         1
+   SBICARD  2026-11-27 SMA_Crossover BEARISH   565.80         1
      APTUS  2026-11-26 SMA_Crossover BEARISH   186.91         1
     ELECON  2026-11-26 SMA_Crossover BEARISH   439.50         1
    EMUDHRA  2026-11-26 SMA_Crossover BEARISH   348.35         1
@@ -94,4 +98,3 @@ MANAPPURAM  2026-11-13 SMA_Crossover BEARISH   308.00         1
 SHANTIGOLD  2026-11-13  RSI_Strategy BEARISH   262.95         1
  TATAPOWER  2026-11-13 SMA_Crossover BEARISH   348.00         1
       TMPV  2026-11-13 SMA_Crossover BEARISH   287.40         1
-      GRSE  2026-11-12 SMA_Crossover BEARISH  2211.50         1
