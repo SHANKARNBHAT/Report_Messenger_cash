@@ -1,8 +1,8 @@
-Generated on: 2026-11-27 10:46:43
+Generated on: 2026-11-28 10:14:43
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
     symbol  rvol    close daily_range atr_14  is_active        trend  action
-  ANGELONE  2.74   376.00       23.15  16.60          1      Bullish  1.Long
+  ANGELONE  2.75   376.00       23.15  16.60          1      Bullish  1.Long
  RATNAVEER  2.73   398.30       54.15  18.03          1      Bullish  1.Long
        HAL  2.67  5074.00      243.00 136.84          1      Bullish  1.Long
    RAYMOND  2.40  1278.60      105.00  59.00          1      Bullish  1.Long
@@ -46,7 +46,7 @@ DATAPATTNS  2.38  4336.90      242.20 185.56          1 Undetermined 3.Watch
        SRF  1.72  2559.50       54.30  51.09          1 Undetermined 3.Watch
 LASERPOWER  1.60   190.03       11.09  10.95          1 Undetermined 3.Watch
  EDELWEISS  1.55   122.35        5.44   5.18          1 Undetermined 3.Watch
-       BEL  1.45   411.45       12.00   7.75          0 Undetermined 3.Watch
+       BEL  1.46   411.45       12.00   7.75          0 Undetermined 3.Watch
   ASHOKLEY  1.45   151.42        7.29   5.82          0 Undetermined 3.Watch
       VISL  1.45    24.29        0.90   0.82          0 Undetermined 3.Watch
    IPCALAB  1.45  1782.90      358.70  77.64          0 Undetermined 3.Watch
@@ -75,24 +75,25 @@ UTTAMSUGAR  1.51   390.65       16.20  19.00          1      Bullish  4.Wait
        KEI  1.50  3753.90      111.90 148.77          0      Bearish  4.Wait
    COFORGE  1.47  2071.00       71.00  83.29          0      Bullish  4.Wait
      PTCIL  1.45 25460.00      835.00 844.29          0      Bullish  4.Wait
+     TECHM  1.38   906.95       27.75  94.73          0      Bearish  4.Wait
      ALKEM  1.37  5130.00       59.00 134.25          0      Bearish  4.Wait
 UJJIVANSFB  1.36    57.37        1.86   2.03          0      Bearish  4.Wait
   LLOYDSME  1.35  1556.80       35.60  46.07          0      Bearish  4.Wait
-NATIONALUM  1.33   304.55        5.45  11.19          0      Bearish  4.Wait
     CONCOR  1.33   420.70        7.25  10.37          0      Bearish  4.Wait
+NATIONALUM  1.33   304.55        5.45  11.19          0      Bearish  4.Wait
 HINDUNILVR  1.29  2117.20       32.00  46.71          0      Bullish  4.Wait
  POLICYBZR  1.27  1186.50       48.50  56.94          0      Bearish  4.Wait
      DEEPA  1.22   184.60       10.66  11.40          0 Undetermined  4.Wait
        LTM  1.21  4320.00      118.20 134.83          0      Bullish  4.Wait
      SOBHA  1.21  1286.30       40.80  42.92          0 Undetermined  4.Wait
-  HINDALCO  1.19   923.00       21.00  30.59          0      Bearish  4.Wait
    URBANCO  1.19   174.92        6.62   7.99          0      Bullish  4.Wait
-   TATSILV  1.18    15.08        0.44   0.59          0      Bearish  4.Wait
-LIQUIDCASE  1.16   117.16        0.02   0.21          0      Bullish  4.Wait
+  HINDALCO  1.19   923.00       21.00  30.59          0      Bearish  4.Wait
+   TATSILV  1.19    15.08        0.44   0.59          0      Bearish  4.Wait
+LIQUIDCASE  1.18   117.16        0.02   0.21          0      Bullish  4.Wait
    STLTECH  1.14   618.80       32.85  39.59          0 Undetermined  4.Wait
    POLYCAB  1.12  7429.00      148.50 249.14          0      Bearish  4.Wait
-HDFCSILVER  1.11   147.95        4.33   5.82          0 Undetermined  4.Wait
       VEDL  1.11   245.31        4.30   6.97          0      Bearish  4.Wait
+HDFCSILVER  1.11   147.95        4.33   5.82          0 Undetermined  4.Wait
    TFCILTD  1.11   173.97        3.75   4.28          0      Bullish  4.Wait
  TATASTEEL  1.11   163.94        3.00   6.11          0      Bearish  4.Wait
    RUBICON  1.09  1869.30       57.30  84.58          0      Bullish  4.Wait

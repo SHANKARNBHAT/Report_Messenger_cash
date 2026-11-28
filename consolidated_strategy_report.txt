@@ -1,9 +1,8 @@
-Generated on: 2026-11-27 10:46:43
+Generated on: 2026-11-28 10:14:43
 • Market Baseline: Nifty 50 is currently Bullish (Close vs 200 SMA & SMA 20 vs SMA 50).
 
 ## bullish_overlaps
     symbol  lot_size last_close active
-    APOLLO         1     475.60      -
    COFORGE         1    2086.70      -
     CPPLUS         1    4023.20      -
    HCLTECH         1    1468.60      -
@@ -14,7 +13,7 @@ LAURUSLABS         1    2338.00      -
   LGEINDIA         1    1716.20      -
       LTTS         1    4222.60      -
 PERSISTENT         1    6124.00      -
-     PTCIL         1   24365.00      -
+     PTCIL         1   24120.00      -
        TCS         1    2460.00      -
      TECHM         1    1801.20      -
      WIPRO         1     196.54      -
@@ -25,28 +24,6 @@ ZENSARTECH         1     554.50      -
 
 ## signal_log
     symbol signal_date strategy_type    bias  lot_size
-     ALKEM  2026-11-13 SMA_Crossover BEARISH         1
-    ANURAS  2026-11-13  RSI_Strategy BULLISH         1
-    APOLLO  2026-11-13  RSI_Strategy BULLISH         1
-ASIANPAINT  2026-11-13  RSI_Strategy BULLISH         1
-       BDL  2026-11-13 SMA_Crossover BEARISH         1
-   BELRISE  2026-11-13 SMA_Crossover BEARISH         1
-    BIOCON  2026-11-13 SMA_Crossover BEARISH         1
-COCHINSHIP  2026-11-13 SMA_Crossover BEARISH         1
-  CROMPTON  2026-11-13 SMA_Crossover BEARISH         1
-    GESHIP  2026-11-13 SMA_Crossover BULLISH         1
-  HINDALCO  2026-11-13 SMA_Crossover BEARISH         1
-HINDUNILVR  2026-11-13  RSI_Strategy BULLISH         1
-  HINDZINC  2026-11-13 SMA_Crossover BEARISH         1
-     LUPIN  2026-11-13 SMA_Crossover BEARISH         1
-MANAPPURAM  2026-11-13 SMA_Crossover BEARISH         1
-    NAZARA  2026-11-13  RSI_Strategy BULLISH         1
-     NYKAA  2026-11-13  RSI_Strategy BULLISH         1
-       PFC  2026-11-13 SMA_Crossover BEARISH         1
-     PTCIL  2026-11-13 SMA_Crossover BULLISH         1
-SHANTIGOLD  2026-11-13  RSI_Strategy BEARISH         1
- TATAPOWER  2026-11-13 SMA_Crossover BEARISH         1
-      TMPV  2026-11-13 SMA_Crossover BEARISH         1
  ABCAPITAL  2026-11-17  RSI_Strategy BULLISH         1
 ADANIENSOL  2026-11-17  RSI_Strategy BULLISH         1
  BRITANNIA  2026-11-17 SMA_Crossover BEARISH         1
